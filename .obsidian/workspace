@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "45e3d7d0acd86f42",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad71a806744d30f4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "[Markdown] LaTex 基本语法.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0448ce215152a49",
+    "type": "split",
+    "children": [
+      {
+        "id": "829dd56614f90331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfb578e1971bd0fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f18c468f89fd450b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#define",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e595e309a44b2e7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d25d9bbbb0ff0feb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f769d79d4e2be7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81880c91cc30aa11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "[Markdown] LaTex 基本语法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67550dc233b6985f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "[Markdown] LaTex 基本语法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc0b6749da86963d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1195f210f766721d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "[Markdown] LaTex 基本语法.md"
+              }
+            }
+          },
+          {
+            "id": "41b42c7d6cfeaec5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5,
+    "collapsed": true
+  },
+  "active": "ad71a806744d30f4",
+  "lastOpenFiles": [
+    "密码学原语/混淆电路 GC.md",
+    "密码学原语/不经意传输 OT.md",
+    "密码学原语/同态加密.md",
+    "FreeBuf/Web渗透/XXE.md",
+    "FreeBuf/Web渗透/中间件.md",
+    "FreeBuf/Web渗透/Web技术演化.md",
+    "FreeBuf/模板注入.md",
+    "FreeBuf/Web渗透/目录穿越.md",
+    "FreeBuf/Web渗透/文件读取.md",
+    "FreeBuf/Web渗透/文件包含.md"
+  ]
+}

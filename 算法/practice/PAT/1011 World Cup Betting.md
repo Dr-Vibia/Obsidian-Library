@@ -1,0 +1,96 @@
+1011 World Cup Betting (20 分)
+
+With the 2010 FIFA World Cup running, football fans the world over were becoming increasingly excited as the best players from the best teams doing battles for the World Cup trophy in South Africa. Similarly, football betting fans were putting their money where their mouths were, by laying all manner of World Cup bets.
+
+Chinese Football Lottery provided a "Triple Winning" game. The rule of winning was simple: first select any three of the games. Then for each selected game, bet on one of the three possible results -- namely `W` for win, `T` for tie, and `L` for lose. There was an odd assigned to each result. The winner's odd would be the product of the three odds times 65%.
+
+For example, 3 games' odds are given as the following:
+
+```
+ W    T    L
+1.1  2.5  1.7
+1.2  3.1  1.6
+4.1  1.2  1.1
+```
+
+To obtain the maximum profit, one must buy `W` for the 3rd game, `T` for the 2nd game, and `T` for the 1st game. If each bet takes 2 yuans, then the maximum profit would be (4.1×3.1×2.5×65%−1)×2=39.31 yuans (accurate up to 2 decimal places).
+
+### Input Specification:
+
+Each input file contains one test case. Each case contains the betting information of 3 games. Each game occupies a line with three distinct odds corresponding to `W`, `T` and `L`.
+
+### Output Specification:
+
+For each test case, print in one line the best bet of each game, and the maximum profit accurate up to 2 decimal places. The characters and the number must be separated by one space.
+
+### Sample Input:
+
+```in
+1.1 2.5 1.7
+1.2 3.1 1.6
+4.1 1.2 1.1
+```
+
+### Sample Output:
+
+```out
+T T W 39.31
+```
+
+题⽬⼤意：给出三场⽐赛以及每场⽐赛的W、T、L的赔率，选取每⼀场⽐赛中赔率最⼤的三个数a b c，先输出三⾏各⾃选择的是W、T、L中的哪⼀个，然后根据计算公式 (a * b * c * 0.65 – 1) * 2 得出最⼤ 收益～ 分析：以三个数⼀组的形式读取，读取完⼀组后输出最⼤值代表的字⺟，然后同时ans累乘该最⼤值， 最后根据公式输出结果～
+
+```c++
+#include <cstdio>
+using namespace std;
+int main() {
+    char c[4] = {"WTL"};
+    double ans = 1.0;
+    for(int i = 0; i < 3; i++) {
+        double maxvalue = 0.0;
+        int maxchar = 0;
+        for(int j = 0; j < 3; j++) {
+            double temp;
+            scanf("%lf", &temp);
+            if(maxvalue <= temp) {
+                maxvalue = temp;
+                maxchar = j;
+            }
+        }
+        ans *= maxvalue;
+        printf("%c ", c[maxchar]);
+    }
+    printf("%.2f", (ans * 0.65 - 1) * 2);//两位精度
+    return 0;
+}
+```
+
+自己写的
+
+```c++
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    float num=0;
+    float max=0,res=1;
+    char f[3]={'W','T','L'};
+    char flag[3]={};
+    for(int i=0;i<9;i++)
+    {
+        cin>>num;
+        if(num>max)
+        {
+            max=num;
+            flag[i/3]=f[i%3];
+        }
+        if(i%3==2)
+        {
+            res*=max;
+            max=0;
+        }
+    }
+    cout<<flag[0]<<' '<<flag[1]<<' '<<flag[2]<<' '<<fixed<<setprecision(2)<<(res*0.65-1)*2;
+    return 0;
+}
+```
+

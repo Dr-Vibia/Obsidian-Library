@@ -1,0 +1,14 @@
+*.nav
+*.out
+*.snm
+*.toc
+*.log
+*.aux
+*.swp
+*.vrb
+*.gz
+*.DS_Store
+.vscode/*
+*.fls
+*.fdb_latexmk
+*tikz-test.pdf

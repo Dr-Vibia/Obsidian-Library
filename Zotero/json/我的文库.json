@@ -1,0 +1,2766 @@
+{
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "preferences": {
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoAbbrevStyle": "",
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "automaticTags": true,
+      "autoPinDelay": 0,
+      "auxImport": false,
+      "baseAttachmentPath": "",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": false,
+      "biblatexExtractEprint": true,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cache": true,
+      "cacheFlushInterval": 5,
+      "charmap": "",
+      "citeCommand": "cite",
+      "citekeyFold": true,
+      "citekeyFormat": "auth.lower+shorttitle(3,3)+year",
+      "citekeyFormatBackup": "auth.lower+shorttitle(3,3)+year",
+      "citekeySearch": true,
+      "csquotes": "",
+      "DOIandURL": "doi",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportTitleCase": true,
+      "extraMergeCitekeys": false,
+      "extraMergeCSL": false,
+      "extraMergeTeX": false,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importNoteToExtra": "",
+      "importSentenceCase": "on+guess",
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "jieba": false,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "kuroshiro": false,
+      "language": "langid",
+      "mapMath": "",
+      "mapText": "",
+      "mapUnicode": "conservative",
+      "parseParticles": true,
+      "patchDates": "dateadded=dateAdded, date-added=dateAdded, datemodified=dateModified, date-modified=dateModified",
+      "platform": "win",
+      "postscript": "",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "latex",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "retainCache": false,
+      "scrubDatabase": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "abstract,file,shorttitle,month",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "stringsOverride": "",
+      "testing": false,
+      "verbatimFields": "url,doi,file,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/",
+      "warnBulkModify": 10,
+      "warnTitleCased": false,
+      "texmap": {}
+    },
+    "options": {
+      "exportNotes": true,
+      "exportFileData": false,
+      "keepUpdated": false,
+      "worker": true
+    }
+  },
+  "version": {
+    "zotero": "6.0.18",
+    "bbt": "6.7.43"
+  },
+  "collections": {
+    "W27JRZJ8": {
+      "key": "W27JRZJ8",
+      "parent": "",
+      "name": "Cryptography",
+      "collections": [
+        "2HGQ26GL",
+        "6CBVJIQ7",
+        "9UHIRWMG"
+      ],
+      "items": [
+        3,
+        46,
+        90,
+        92,
+        93,
+        95,
+        99,
+        103,
+        107,
+        109,
+        111,
+        113,
+        115,
+        117,
+        119,
+        122,
+        124,
+        133,
+        137,
+        141,
+        162
+      ]
+    },
+    "2HGQ26GL": {
+      "key": "2HGQ26GL",
+      "parent": "W27JRZJ8",
+      "name": "Garbled Circuits",
+      "collections": [],
+      "items": [
+        141,
+        143,
+        145,
+        147,
+        159,
+        161
+      ]
+    },
+    "6CBVJIQ7": {
+      "key": "6CBVJIQ7",
+      "parent": "W27JRZJ8",
+      "name": "MPC",
+      "collections": [],
+      "items": [
+        149,
+        153,
+        157
+      ]
+    },
+    "9UHIRWMG": {
+      "key": "9UHIRWMG",
+      "parent": "W27JRZJ8",
+      "name": "watermark",
+      "collections": [],
+      "items": [
+        162,
+        164,
+        166,
+        168,
+        170,
+        172,
+        174,
+        176,
+        245,
+        247,
+        249
+      ]
+    },
+    "ELRTGZDA": {
+      "key": "ELRTGZDA",
+      "parent": "",
+      "name": "My Notes",
+      "collections": [],
+      "items": [
+        5
+      ]
+    }
+  },
+  "items": [
+    {
+      "key": "AMF5ADP7",
+      "version": 796,
+      "itemType": "bookSection",
+      "title": "Simple Functional Encryption Schemes for Inner Products",
+      "abstractNote": "Functional encryption is a new paradigm that allows users to \ufb01nely control the amount of information that is revealed by a ciphertext to a given receiver. Recent papers have focused their attention on constructing schemes for general functionalities at expense of e\ufb03ciency. Our goal, in this paper, is to construct functional encryption schemes for less general functionalities which are still expressive enough for practical scenarios. We propose a functional encryption scheme for the inner-product functionality, meaning that decrypting an encrypted vector x with a key for a vector y will reveal only x, y and nothing else, whose security is based on the DDH assumption. Despite the simplicity of this functionality, it is still useful in many contexts like descriptive statistics. In addition, we generalize our approach and present a generic scheme that can be instantiated, in addition, under the LWE assumption and o\ufb00ers various trade-o\ufb00s in terms of expressiveness and e\ufb03ciency.",
+      "date": "2015",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "http://link.springer.com/10.1007/978-3-662-46447-2_33",
+      "accessDate": "2022-09-16T11:45:50Z",
+      "extra": "Series Title: Lecture Notes in Computer Science\nDOI: 10.1007/978-3-662-46447-2_33",
+      "volume": "9020",
+      "place": "Berlin, Heidelberg",
+      "publisher": "Springer Berlin Heidelberg",
+      "ISBN": "978-3-662-46446-5 978-3-662-46447-2",
+      "pages": "733-751",
+      "creators": [
+        {
+          "firstName": "Jonathan",
+          "lastName": "Katz",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Michel",
+          "lastName": "Abdalla",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Florian",
+          "lastName": "Bourse",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Angelo",
+          "lastName": "De Caro",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David",
+          "lastName": "Pointcheval",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-16T11:45:50Z",
+      "dateModified": "2022-09-16T11:45:50Z",
+      "uri": "http://zotero.org/users/9781610/items/AMF5ADP7",
+      "itemID": 92,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Abdalla \u7b49\u3002 - 2015 - Simple Functional Encryption Schemes for Inner Pro.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-16T11:45:28Z",
+          "dateModified": "2022-09-21T08:38:13Z",
+          "uri": "http://zotero.org/users/9781610/items/RUYU3KUM",
+          "path": "D:\\Zotero\\data_download\\storage\\RUYU3KUM\\Abdalla \u7b49\u3002 - 2015 - Simple Functional Encryption Schemes for Inner Pro.pdf",
+          "select": "zotero://select/library/items/RUYU3KUM"
+        }
+      ],
+      "notes": [],
+      "citationKey": "abdallaSimpleFunctionalEncryption2015",
+      "itemKey": "AMF5ADP7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/AMF5ADP7",
+      "publicationTitle": "Public-Key Cryptography -- PKC 2015"
+    },
+    {
+      "key": "K7KJFU6N",
+      "version": 880,
+      "itemType": "preprint",
+      "title": "On Secret Sharing, Randomness, and Random-less Reductions for Secret Sharing",
+      "abstractNote": "Secret-sharing is one of the most basic and oldest primitives in cryptography, introduced by Shamir and Blakely in the 70s. It allows to strike a meaningful balance between availability and confidentiality of secret information. It has a host of applications most notably in threshold cryptography and multi-party computation. All known constructions of secret sharing (with the exception of those with a pathological choice of parameters) require access to uniform randomness. In practice, it is extremely challenging to generate a source of uniform randomness. This has led to a large body of research devoted to designing randomized algorithms and cryptographic primitives from imperfect sources of randomness. Motivated by this, 15 years ago, Bosley and Dodis asked whether it is even possible to build 2-out-of-2 secret sharing without access to uniform randomness. In this work, we make progress towards resolving this question. We answer this question for secret sharing schemes with important additional properties, i.e., either leakage-resilience or non-malleability. We prove that, unfortunately, for not too small secrets, it is impossible to construct any of 2-out-of-2 leakage-resilient secret sharing or 2-out-of-2 non-malleable secret sharing without access to uniform randomness. Given that the problem whether 2-out-of-2 secret sharing requires uniform randomness has been open for a long time, it is reasonable to consider intermediate problems towards resolving the open question. In a spirit similar to NP-completeness, we study how the existence of a t-out-of-n secret sharing without access to uniform randomness is related to the existence of a t'-out-of-n' secret sharing without access to uniform randomness for a different choice of the parameters t,n,t',n'.Minor revisions. Added Funding Acknowledgements. Added sub-section about computational setting.",
+      "date": "2021",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2021/802",
+      "accessDate": "2022-10-15T08:05:43Z",
+      "extra": "Report Number: 802",
+      "creators": [
+        {
+          "firstName": "Divesh",
+          "lastName": "Aggarwal",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Eldon",
+          "lastName": "Chung",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Maciej",
+          "lastName": "Obremski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jo\u00e3o",
+          "lastName": "Ribeiro",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "leakage-resilient secret sharing",
+          "type": 1
+        },
+        {
+          "tag": "non-malleable secret sharing",
+          "type": 1
+        },
+        {
+          "tag": "Random-less reductions",
+          "type": 1
+        },
+        {
+          "tag": "Randomness Extraction",
+          "type": 1
+        },
+        {
+          "tag": "Secret sharing",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-15T08:05:43Z",
+      "dateModified": "2022-10-15T08:05:43Z",
+      "uri": "http://zotero.org/users/9781610/items/K7KJFU6N",
+      "itemID": 133,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-15T08:05:45Z",
+          "dateModified": "2022-10-15T08:05:45Z",
+          "uri": "http://zotero.org/users/9781610/items/VQXLYUC2",
+          "path": "D:\\Zotero\\data_download\\storage\\VQXLYUC2\\Aggarwal \u7b49\u3002 - 2021 - On Secret Sharing, Randomness, and Random-less Red.pdf",
+          "select": "zotero://select/library/items/VQXLYUC2"
+        }
+      ],
+      "notes": [],
+      "citationKey": "aggarwalSecretSharingRandomness2021",
+      "itemKey": "K7KJFU6N",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/K7KJFU6N"
+    },
+    {
+      "key": "WZTN6V6M",
+      "version": 1017,
+      "itemType": "attachment",
+      "title": "mdnotes-0.2.3.xpi",
+      "linkMode": "imported_file",
+      "contentType": "application/x-xpinstall",
+      "charset": "",
+      "filename": "mdnotes-0.2.3.xpi",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-10-21T11:59:27Z",
+      "dateModified": "2022-10-21T11:59:27Z",
+      "uri": "http://zotero.org/users/9781610/items/WZTN6V6M",
+      "itemID": 178,
+      "localPath": "D:\\Zotero\\data_download\\storage\\WZTN6V6M\\mdnotes-0.2.3.xpi",
+      "defaultPath": "files/178/mdnotes-0.2.3.xpi",
+      "itemKey": "WZTN6V6M",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WZTN6V6M"
+    },
+    {
+      "key": "TDVX698U",
+      "version": 36,
+      "itemType": "book",
+      "title": "An intensive introduction to cryptography",
+      "abstractNote": "Lecture notes on Cryptography by Boaz Barak",
+      "language": "en",
+      "shortTitle": "An intensive introduction to cryptography",
+      "libraryCatalog": "intensecrypto.org",
+      "url": "https://intensecrypto.org/",
+      "accessDate": "2022-07-16T03:28:29Z",
+      "creators": [
+        {
+          "firstName": "Boaz",
+          "lastName": "Barak",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-07-16T03:28:29Z",
+      "dateModified": "2022-07-16T09:43:59Z",
+      "uri": "http://zotero.org/users/9781610/items/TDVX698U",
+      "itemID": 3,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "An intensive introduction to cryptography.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-07-16T09:37:55Z",
+          "dateModified": "2022-07-16T11:33:56Z",
+          "uri": "http://zotero.org/users/9781610/items/LN2I8MCH",
+          "path": "D:\\Zotero\\data_download\\storage\\LN2I8MCH\\An intensive introduction to cryptography.pdf",
+          "select": "zotero://select/library/items/LN2I8MCH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "barakIntensiveIntroductionCryptography",
+      "itemKey": "TDVX698U",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TDVX698U"
+    },
+    {
+      "key": "J66YERAD",
+      "version": 213,
+      "itemType": "book",
+      "title": "Introduction to Theoretical Computer Science: index",
+      "abstractNote": "Textbook on Theoretical Computer Science by Boaz Barak",
+      "language": "en",
+      "shortTitle": "Introduction to Theoretical Computer Science",
+      "libraryCatalog": "introtcs.org",
+      "url": "https://introtcs.org/",
+      "accessDate": "2022-07-21T09:48:42Z",
+      "creators": [
+        {
+          "firstName": "Boaz",
+          "lastName": "Barak",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-07-21T09:48:42Z",
+      "dateModified": "2022-07-21T09:48:42Z",
+      "uri": "http://zotero.org/users/9781610/items/J66YERAD",
+      "itemID": 46,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Introduction to Theoretical Computer Science inde.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-07-21T09:49:02Z",
+          "dateModified": "2022-07-21T09:49:17Z",
+          "uri": "http://zotero.org/users/9781610/items/V84PL9W9",
+          "path": "D:\\Zotero\\data_download\\storage\\V84PL9W9\\Introduction to Theoretical Computer Science inde.pdf",
+          "select": "zotero://select/library/items/V84PL9W9"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-07-21T09:49:59Z",
+          "dateModified": "2022-07-21T09:49:59Z",
+          "uri": "http://zotero.org/users/9781610/items/SXWN3DSV",
+          "path": "D:\\Zotero\\data_download\\storage\\SXWN3DSV\\public.html",
+          "select": "zotero://select/library/items/SXWN3DSV"
+        }
+      ],
+      "notes": [],
+      "citationKey": "barakIntroductionTheoreticalComputer",
+      "itemKey": "J66YERAD",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/J66YERAD"
+    },
+    {
+      "key": "ZXANV274",
+      "version": 830,
+      "itemType": "preprint",
+      "title": "Triply Adaptive UC NIZK",
+      "abstractNote": "Non-interactive zero knowledge (NIZK) enables proving the validity of NP statement without leaking anything else. We study multi-instance NIZKs in the common reference string (CRS) model, against an adversary that adaptively corrupts parties and chooses statements to be proven. We construct the first suchNIZK that provides full adaptive soundness, as well as adaptive zero-knowledge, assuming either LWE or else LPN and DDH (previous constructions rely on non-falsifiable knowledge assumptions). In addition, our NIZKs are universally composable (UC). Along the way, we: - Formulate an ideal functionality,, which essentially capturescommitments, and show that it is realizable by existing protocols using standard assumptions. - Define and realize, under standard assumptions, Sigma protocols which satisfy triply adaptive security with access to. - Use the Fiat-Shamir transform, instantiated with correlation intractable hash functions, to compile a Sigma protocol with triply adaptive security with access tointo a triply adaptive UC-NIZK argument in the CRS model with access to, assuming LWE (or else LPN and DDH). - Use the UC theorem to obtain UC-NIZK in the CRS model.Minor changes in the abstract and F_NICOM functionality",
+      "date": "2020",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2020/1212",
+      "accessDate": "2022-10-03T14:25:01Z",
+      "extra": "Report Number: 1212",
+      "creators": [
+        {
+          "firstName": "Ran",
+          "lastName": "Canetti",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Pratik",
+          "lastName": "Sarkar",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Xiao",
+          "lastName": "Wang",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Adaptive Security",
+          "type": 1
+        },
+        {
+          "tag": "Correlation Intractability",
+          "type": 1
+        },
+        {
+          "tag": "Non-interactive Zero Knowledge",
+          "type": 1
+        },
+        {
+          "tag": "Universal Composability",
+          "type": 1
+        },
+        {
+          "tag": "Zero Knowledge",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-03T14:25:01Z",
+      "dateModified": "2022-10-03T14:25:01Z",
+      "uri": "http://zotero.org/users/9781610/items/ZXANV274",
+      "itemID": 111,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-03T14:25:06Z",
+          "dateModified": "2022-10-03T14:25:06Z",
+          "uri": "http://zotero.org/users/9781610/items/UE4KBNBK",
+          "path": "D:\\Zotero\\data_download\\storage\\UE4KBNBK\\Canetti \u7b49\u3002 - 2020 - Triply Adaptive UC NIZK.pdf",
+          "select": "zotero://select/library/items/UE4KBNBK"
+        }
+      ],
+      "notes": [],
+      "citationKey": "canettiTriplyAdaptiveUC2020",
+      "itemKey": "ZXANV274",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZXANV274"
+    },
+    {
+      "key": "PFNECWJX",
+      "version": 825,
+      "itemType": "preprint",
+      "title": "Identity-Based Matchmaking Encryption from Standard Assumptions",
+      "abstractNote": "In this work, we propose the first identity-based matchmaking encryption (IB-ME) scheme under the standard assumptions in the standard model. This scheme is proven to be secure under the symmetric external Diffie-Hellman (SXDH) assumption in prime order bilinear pairing groups. In our IB-ME scheme, all parameters have constant number of group elements and are simpler than those of previous constructions. Previous works are either in the random oracle model or based on the q-type assumptions, while ours is built directly in the standard model and based on static assumptions, and does not rely on other crypto tools. More concretely, our IB-ME is constructed from a variant of two-level anonymous IBE. We observed that this two-level IBE with anonymity and unforgeability satisfies the same functionality of IB-ME, and its security properties cleverly meet the two requirements of IB-ME (Privacy and Authenticity). The privacy property of IB-ME relies on the anonymity of this two-level IBE, while the authenticity property is corresponding to the unforgeability in the 2nd level. This variant of two-level IBE is built from dual pairing vector spaces, and both security reductions rely on dual system encryption.",
+      "date": "2022",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2022/1246",
+      "accessDate": "2022-10-02T16:06:50Z",
+      "extra": "Report Number: 1246",
+      "creators": [
+        {
+          "firstName": "Jie",
+          "lastName": "Chen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yu",
+          "lastName": "Li",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jinming",
+          "lastName": "Wen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jian",
+          "lastName": "Weng",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Identity-based encryption",
+          "type": 1
+        },
+        {
+          "tag": "Matchmaking encryption",
+          "type": 1
+        },
+        {
+          "tag": "Standard assumptions",
+          "type": 1
+        },
+        {
+          "tag": "Standard model",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-02T16:06:50Z",
+      "dateModified": "2022-10-02T16:06:50Z",
+      "uri": "http://zotero.org/users/9781610/items/PFNECWJX",
+      "itemID": 107,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T16:06:52Z",
+          "dateModified": "2022-10-02T16:06:52Z",
+          "uri": "http://zotero.org/users/9781610/items/KJUBSMAJ",
+          "path": "D:\\Zotero\\data_download\\storage\\KJUBSMAJ\\Chen \u7b49\u3002 - 2022 - Identity-Based Matchmaking Encryption from Standar.pdf",
+          "select": "zotero://select/library/items/KJUBSMAJ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "chenIdentityBasedMatchmakingEncryption2022",
+      "itemKey": "PFNECWJX",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PFNECWJX"
+    },
+    {
+      "key": "2FE8XENN",
+      "version": 848,
+      "itemType": "preprint",
+      "title": "SortingHat: Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering",
+      "abstractNote": "Machine learning as a service scenario typically requires the client to trust the server and provide sensitive data in plaintext. However, with the recent improvements in fully homomorphic encryption (FHE) schemes, many such applications can be designed in a privacy preserving way. In this work, we focus on such a problem, private decision tree evaluation (PDTE) --- where a server has a decision tree classification model, and a client wants to use the model to classify her private data without revealing the data or the classification result to the server. We present an efficient non-interactive design of PDTE, that we call SortingHat, based on FHE techniques. As part of our design, we solve multiple cryptographic problems related to FHE: (1) we propose a fast homomorphic comparison function where one input can be in plaintext format; (2) we design an efficient binary decision tree evaluation technique in the FHE setting, which we call homomorphic traversal, and apply it together with our homomorphic comparison to evaluate private decision tree classifiers, obtaining running times orders of magnitude faster than the state of the art; (3) we improve both the communication cost and the time complexity of transciphering, by applying our homomorphic comparison to the FiLIP stream cipher. Through a prototype implementation, we demonstrate that our improved transciphering solution runs around 400 times faster than previous works. We finally present a choice in terms of PDTE design: we present a version of SortingHat without transciphering that achieves significant improvement in terms of computation cost comparing to prior works; and another version with transciphering that has a communication cost about 20 thousand times smaller but comparable running time.",
+      "date": "2022",
+      "shortTitle": "SortingHat",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2022/757",
+      "accessDate": "2022-10-05T15:43:22Z",
+      "extra": "Report Number: 757",
+      "creators": [
+        {
+          "firstName": "Kelong",
+          "lastName": "Cong",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Debajyoti",
+          "lastName": "Das",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jeongeun",
+          "lastName": "Park",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hilder V. L.",
+          "lastName": "Pereira",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FHE",
+          "type": 1
+        },
+        {
+          "tag": "PDTE",
+          "type": 1
+        },
+        {
+          "tag": "Private Decision Tree",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-05T15:43:22Z",
+      "dateModified": "2022-10-05T15:43:22Z",
+      "uri": "http://zotero.org/users/9781610/items/2FE8XENN",
+      "itemID": 122,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-05T15:43:25Z",
+          "dateModified": "2022-10-05T15:43:25Z",
+          "uri": "http://zotero.org/users/9781610/items/HLR3TIND",
+          "path": "D:\\Zotero\\data_download\\storage\\HLR3TIND\\Cong \u7b49\u3002 - 2022 - SortingHat Efficient Private Decision Tree Evalua.pdf",
+          "select": "zotero://select/library/items/HLR3TIND"
+        }
+      ],
+      "notes": [],
+      "citationKey": "congSortingHatEfficientPrivate2022",
+      "itemKey": "2FE8XENN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2FE8XENN"
+    },
+    {
+      "key": "6P8R6CYB",
+      "version": 933,
+      "itemType": "preprint",
+      "title": "Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security",
+      "abstractNote": "In this work we introduce a novel four-party honest-majority MPC protocol with active security that achieves comparable efficiency to equivalent protocols in the same setting, while having a much simpler design and not relying on function-dependent preprocessing. Our initial protocol satisfies security with abort, but we present some extensions to achieve guaranteed output delivery. Unlike previous works, we do not achieve this by delegating the computation to one single party that is identified to be honest, which is likely to hinder the adoption of these technologies as it centralizes sensitive data. Instead, our novel approach guarantees termination of the protocol while ensuring that no single party (honest or corrupt) learns anything beyond the output. We implement our four-party protocol with abort in the MP-SPDZ framework for multiparty computation and benchmark multiple applications like MNIST classification training and ImageNet inference. Our results show that our four-party protocol performs similarly to an efficient honest-majority three-party protocol that only provides semi-honest/passive security, which suggest that adding a fourth party can be an effective method to achieve active security without harming performance.",
+      "date": "2020",
+      "shortTitle": "Fantastic Four",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2020/1330",
+      "accessDate": "2022-10-18T13:19:48Z",
+      "extra": "Report Number: 1330",
+      "creators": [
+        {
+          "firstName": "Anders Dalskov, Daniel",
+          "lastName": "Escudero",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Marcel",
+          "lastName": "Keller",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Implementation",
+          "type": 1
+        },
+        {
+          "tag": "Machine Learning",
+          "type": 1
+        },
+        {
+          "tag": "Multiparty Computation",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-18T13:19:48Z",
+      "dateModified": "2022-10-18T13:19:48Z",
+      "uri": "http://zotero.org/users/9781610/items/6P8R6CYB",
+      "itemID": 149,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-18T13:19:53Z",
+          "dateModified": "2022-10-18T13:19:53Z",
+          "uri": "http://zotero.org/users/9781610/items/G7MYM3ZK",
+          "path": "D:\\Zotero\\data_download\\storage\\G7MYM3ZK\\Escudero \u548c Keller - 2020 - Fantastic Four Honest-Majority Four-Party Secure .pdf",
+          "select": "zotero://select/library/items/G7MYM3ZK"
+        }
+      ],
+      "notes": [],
+      "citationKey": "escuderoFantasticFourHonestMajority2020",
+      "itemKey": "6P8R6CYB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/6P8R6CYB"
+    },
+    {
+      "key": "4EETXAFS",
+      "version": 947,
+      "itemType": "preprint",
+      "title": "Honest Majority MPC with Abort with Minimal Online Communication",
+      "abstractNote": "In this work we focus on improving the communication complexity of the \\emph{online phase} of honest majority MPC protocols. To this end, we present a general and simple method to compile arbitrary secret-sharing-based passively secure protocols defined over an arbitrary ring that are secure up to additive attacks in a malicious setting, to actively secure protocols with abort. The resulting protocol has a total communication complexity in the online phase ofshares, which amounts toshares per party asymptotically. An important aspect of our techniques is that they can be seen as generalization of ideas that have been used in other works in a rather \\emph{ad-hoc} manner for different secret-sharing protocols. Thus, our work serves as a way of unifying key ideas in recent honest majority protocols, to understand better the core techniques and similarities among these works. Furthermore, for, when instantiated with replicated secret-sharing-based protocols (Araki et al.~CCS 2016), the communication complexity in the online phase amounts to onlyring element per party, matching the communication complexity of the BLAZE protocol (Patra \\& Suresh, NDSS 2020), while having a much simpler design.Updated version after Latincrypt reviews",
+      "date": "2020",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2020/1556",
+      "accessDate": "2022-10-18T13:51:01Z",
+      "extra": "Report Number: 1556",
+      "creators": [
+        {
+          "firstName": "Daniel",
+          "lastName": "Escudero",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anders",
+          "lastName": "Dalskov",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "secure multiparty computation",
+          "type": 1
+        },
+        {
+          "tag": "communication efficient",
+          "type": 1
+        },
+        {
+          "tag": "honest-majority",
+          "type": 1
+        },
+        {
+          "tag": "protocol",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-18T13:51:01Z",
+      "dateModified": "2022-10-18T13:51:01Z",
+      "uri": "http://zotero.org/users/9781610/items/4EETXAFS",
+      "itemID": 157,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-18T13:51:10Z",
+          "dateModified": "2022-10-18T13:51:10Z",
+          "uri": "http://zotero.org/users/9781610/items/V3HCYR2T",
+          "path": "D:\\Zotero\\data_download\\storage\\V3HCYR2T\\Escudero \u548c Dalskov - 2020 - Honest Majority MPC with Abort with Minimal Online.pdf",
+          "select": "zotero://select/library/items/V3HCYR2T"
+        }
+      ],
+      "notes": [],
+      "citationKey": "escuderoHonestMajorityMPC2020",
+      "itemKey": "4EETXAFS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/4EETXAFS"
+    },
+    {
+      "key": "HMT47YG9",
+      "version": 833,
+      "itemType": "preprint",
+      "title": "Efficient NIZKs from LWE via Polynomial Reconstruction and ``MPC in the Head\"",
+      "abstractNote": "All existing works building non-interactive zero-knowledge (NIZK) arguments forfrom the Learning With Errors (LWE) assumption have studied instantiating the Fiat-Shamir paradigm on a parallel repetition of an underlying honest-verifier zero knowledge (HVZK)protocol, via an appropriately built correlation-intractable (CI) hash function from LWE. This technique has inherent efficiency losses that arise from parallel repetition. In this work, we show how to make use of the more efficient ``MPC in the Head'' technique for building an underlying honest-verifier protocol upon which to apply the Fiat-Shamir paradigm. To make this possible, we provide a new and more efficient construction of CI hash functions from LWE, using efficient algorithms for polynomial reconstruction as the main technical tool. We stress that our work provides a new and more efficient ``base construction'' for building LWE-based NIZK arguments for. Our protocol can be the building block around which other efficiency-focused bootstrapping techniques can be applied, such as the bootstrapping technique of Gentry et al. (Journal of Cryptology 2015).",
+      "date": "2022",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2022/370",
+      "accessDate": "2022-10-03T14:35:22Z",
+      "extra": "Report Number: 370",
+      "creators": [
+        {
+          "firstName": "Riddhi",
+          "lastName": "Ghosal",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Paul",
+          "lastName": "Lou",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Amit",
+          "lastName": "Sahai",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-03T14:35:22Z",
+      "dateModified": "2022-10-03T14:35:22Z",
+      "uri": "http://zotero.org/users/9781610/items/HMT47YG9",
+      "itemID": 113,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-03T14:35:25Z",
+          "dateModified": "2022-10-03T14:35:25Z",
+          "uri": "http://zotero.org/users/9781610/items/3S3N56V3",
+          "path": "D:\\Zotero\\data_download\\storage\\3S3N56V3\\Ghosal \u7b49\u3002 - 2022 - Efficient NIZKs from LWE via Polynomial Reconstruc.pdf",
+          "select": "zotero://select/library/items/3S3N56V3"
+        }
+      ],
+      "notes": [],
+      "citationKey": "ghosalEfficientNIZKsLWE2022",
+      "itemKey": "HMT47YG9",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HMT47YG9"
+    },
+    {
+      "key": "4PKY2MFB",
+      "version": 843,
+      "itemType": "preprint",
+      "title": "Selective MPC: Distributed Computation of Differentially Private Key-Value Statistics",
+      "abstractNote": "Key-value data is a naturally occurring data type that has not been thoroughly investigated in the local trust model. Existing local differentially private (LDP) solutions for computing statistics over key-value data suffer from the inherent accuracy limitations of each user adding their own noise. Multi-party computation (MPC) maintains better accuracy than LDP and similarly does not require a trusted central party. However, naively applying MPC to key-value data results in prohibitively expensive computation costs. In this work, we present selective multi-party computation, a novel approach to distributed computation that leverages DP leakage to efficiently and accurately compute statistics over key-value data. By providing each party with a view of a random subset of the data, we can capture subtractive noise. We prove that our protocol satisfies pure DP and is provably secure in the combined DP/MPC model. Our empirical evaluation demonstrates that we can compute statistics over 10,000 keys in 20 seconds and can scale up to 30 servers while obtaining results for a single key in under a second.",
+      "date": "2022-08-30",
+      "shortTitle": "Selective MPC",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2107.12407",
+      "accessDate": "2022-10-05T15:38:10Z",
+      "extra": "arXiv:2107.12407 [cs]",
+      "DOI": "10.48550/arXiv.2107.12407",
+      "creators": [
+        {
+          "firstName": "Thomas",
+          "lastName": "Humphries",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Rasoul Akhavan",
+          "lastName": "Mahdavi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shannon",
+          "lastName": "Veitch",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Florian",
+          "lastName": "Kerschbaum",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Cryptography and Security",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-05T15:38:10Z",
+      "dateModified": "2022-10-05T15:38:10Z",
+      "uri": "http://zotero.org/users/9781610/items/4PKY2MFB",
+      "itemID": 119,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "arXiv Fulltext PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-05T15:38:21Z",
+          "dateModified": "2022-10-05T15:38:21Z",
+          "uri": "http://zotero.org/users/9781610/items/PQ862LFU",
+          "path": "D:\\Zotero\\data_download\\storage\\PQ862LFU\\Humphries \u7b49\u3002 - 2022 - Selective MPC Distributed Computation of Differen.pdf",
+          "select": "zotero://select/library/items/PQ862LFU"
+        },
+        {
+          "itemType": "attachment",
+          "title": "arXiv.org Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-05T15:38:33Z",
+          "dateModified": "2022-10-05T15:38:33Z",
+          "uri": "http://zotero.org/users/9781610/items/QUJSAFAC",
+          "path": "D:\\Zotero\\data_download\\storage\\QUJSAFAC\\2107.html",
+          "select": "zotero://select/library/items/QUJSAFAC"
+        }
+      ],
+      "notes": [],
+      "citationKey": "humphriesSelectiveMPCDistributed2022",
+      "itemKey": "4PKY2MFB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/4PKY2MFB",
+      "number": "arXiv:2107.12407",
+      "publisher": "arXiv"
+    },
+    {
+      "key": "GQCXTUJZ",
+      "version": 784,
+      "itemType": "book",
+      "title": "Introduction to Modern Cryptography, Second Edition",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "creators": [
+        {
+          "firstName": "Katz",
+          "lastName": "Jonathan",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-01T04:28:04Z",
+      "dateModified": "2022-09-01T04:29:27Z",
+      "uri": "http://zotero.org/users/9781610/items/GQCXTUJZ",
+      "itemID": 90,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Jonathan - Introduction to Modern Cryptography, Second Editio.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-01T04:27:59Z",
+          "dateModified": "2022-09-01T04:28:05Z",
+          "uri": "http://zotero.org/users/9781610/items/H72CNZH6",
+          "path": "D:\\Zotero\\data_download\\storage\\H72CNZH6\\Jonathan - Introduction to Modern Cryptography, Second Editio.pdf",
+          "select": "zotero://select/library/items/H72CNZH6"
+        }
+      ],
+      "notes": [],
+      "citationKey": "jonathanIntroductionModernCryptography",
+      "itemKey": "GQCXTUJZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/GQCXTUJZ"
+    },
+    {
+      "key": "ATL6GQIW",
+      "version": 987,
+      "itemType": "preprint",
+      "title": "Watermarking PRFs from Lattices: Stronger Security via Extractable PRFs",
+      "abstractNote": "A software watermarking scheme enables one to embed a \"mark\" (i.e., a message) within a program while preserving the program's functionality. Moreover, there is an extraction algorithm that recovers an embedded message from a program. The main security goal is that it should be difficult to remove the watermark without destroying the functionality of the program. Existing constructions of watermarking focus on watermarking cryptographic functions like pseudorandom functions (PRFs); even in this setting, realizing watermarking from standard assumptions remains difficult. The first lattice-based construction of secret-key watermarking due to Kim and Wu (CRYPTO 2017) only ensures mark-unremovability against an adversary who does not have access to the mark-extraction oracle. The construction of Quach et al. (TCC 2018) achieves the stronger notion of mark-unremovability even if the adversary can make extraction queries, but has the drawback that the watermarking authority (who holds the watermarking secret key) can break pseudorandomness of all PRF keys in the family (including unmarked keys). In this work, we construct new lattice-based secret-key watermarking schemes for PRFs that both provide unremovability against adversaries that have access to the mark-extraction oracle and offer a strong and meaningful notion of pseudorandomness even against the watermarking authority (i.e., the outputs of unmarked keys are pseudorandom almost everywhere). Moreover, security of several of our schemes can be based on the hardness of computing nearly polynomial approximations to worst-case lattice problems. This is a qualitatively weaker assumption than that needed for existing lattice-based constructions of watermarking (that support message-embedding), all of which require quasi-polynomial approximation factors. Our constructions rely on a new cryptographic primitive called an extractable PRF, which may be of independent interest.",
+      "date": "2018",
+      "shortTitle": "Watermarking PRFs from Lattices",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2018/986",
+      "accessDate": "2022-10-19T16:49:47Z",
+      "extra": "Report Number: 986",
+      "creators": [
+        {
+          "firstName": "Sam",
+          "lastName": "Kim",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David J.",
+          "lastName": "Wu",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "lattices",
+          "type": 1
+        },
+        {
+          "tag": "PRFs",
+          "type": 1
+        },
+        {
+          "tag": "watermarking",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-19T16:49:47Z",
+      "dateModified": "2022-10-19T16:49:47Z",
+      "uri": "http://zotero.org/users/9781610/items/ATL6GQIW",
+      "itemID": 164,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-19T16:49:49Z",
+          "dateModified": "2022-10-19T16:49:49Z",
+          "uri": "http://zotero.org/users/9781610/items/5NURH7ZQ",
+          "path": "D:\\Zotero\\data_download\\storage\\5NURH7ZQ\\Kim \u548c Wu - 2018 - Watermarking PRFs from Lattices Stronger Security.pdf",
+          "select": "zotero://select/library/items/5NURH7ZQ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "kimWatermarkingPRFsLattices2018",
+      "itemKey": "ATL6GQIW",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ATL6GQIW"
+    },
+    {
+      "key": "NQEPUX5Q",
+      "version": 799,
+      "itemType": "preprint",
+      "title": "Functional Encryption with Secure Key Leasing",
+      "abstractNote": "Secure software leasing is a quantum cryptographic primitive that enables us to lease software to a user by encoding it into a quantum state. Secure software leasing has a mechanism that verifies whether a returned software is valid or not. The security notion guarantees that once a user returns a software in a valid form, the user no longer uses the software. In this work, we introduce the notion of secret-key functional encryption (SKFE) with secure key leasing, where a decryption key can be securely leased in the sense of secure software leasing. We also instantiate it with standard cryptographic assumptions. More specifically, our contribution is as follows. - We define the syntax and security definitions for SKFE with secure key leasing. - We achieve a transformation from standard SKFE into SKFE with secure key leasing without using additional assumptions. Especially, we obtain bounded collusion-resistant SKFE forwith secure key leasing based on post-quantum one-way functions since we can instantiate bounded collusion-resistant SKFE forwith the assumption. Some previous secure software leasing schemes capture only pirate software that runs on an honest evaluation algorithm (on a legitimate platform). However, our secure key leasing notion captures arbitrary attack strategies and does not have such a limitation. As an additional contribution, we introduce the notion of single-decryptor FE (SDFE), where each functional decryption key is copy-protected. Since copy-protection is a stronger primitive than secure software leasing, this notion can be seen as a stronger cryptographic primitive than FE with secure key leasing. More specifically, our additional contribution is as follows. - We define the syntax and security definitions for SDFE. - We achieve collusion-resistant single-decryptor PKFE forfrom post-quantum indistinguishability obfuscation and quantum hardness of the learning with errors problem.",
+      "date": "2022",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2022/1252",
+      "accessDate": "2022-09-27T14:46:56Z",
+      "extra": "Report Number: 1252",
+      "creators": [
+        {
+          "firstName": "Fuyuki",
+          "lastName": "Kitagawa",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ryo",
+          "lastName": "Nishimaki",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "copy-protection",
+          "type": 1
+        },
+        {
+          "tag": "functional encryption",
+          "type": 1
+        },
+        {
+          "tag": "secure key leasing",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-09-27T14:46:56Z",
+      "dateModified": "2022-09-27T14:46:56Z",
+      "uri": "http://zotero.org/users/9781610/items/NQEPUX5Q",
+      "itemID": 93,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-27T14:47:02Z",
+          "dateModified": "2022-09-27T14:47:02Z",
+          "uri": "http://zotero.org/users/9781610/items/GB7HJ3K7",
+          "path": "D:\\Zotero\\data_download\\storage\\GB7HJ3K7\\Kitagawa \u548c Nishimaki - 2022 - Functional Encryption with Secure Key Leasing.pdf",
+          "select": "zotero://select/library/items/GB7HJ3K7"
+        }
+      ],
+      "notes": [],
+      "citationKey": "kitagawaFunctionalEncryptionSecure2022",
+      "itemKey": "NQEPUX5Q",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/NQEPUX5Q"
+    },
+    {
+      "key": "734IKQBP",
+      "version": 1007,
+      "itemType": "preprint",
+      "title": "Watermarking PRFs against Quantum Adversaries",
+      "abstractNote": "We initiate the study of software watermarking against quantum adversaries. A quantum adversary generates a quantum state as a pirate software that potentially removes an embedded message from a classical marked software. Extracting an embedded message from quantum pirate software is difficult since measurement could irreversibly alter the quantum state. In software watermarking against classical adversaries, a message extraction algorithm crucially uses the (input-output) behavior of a classical pirate software to extract an embedded message. Even if we instantiate existing watermarking PRFs with quantum-safe building blocks, it is not clear whether they are secure against quantum adversaries due to the quantum-specific property above. Thus, we need entirely new techniques to achieve software watermarking against quantum adversaries. In this work, we define secure watermarking PRFs for quantum adversaries (unremovability against quantum adversaries). We also present two watermarking PRFs as follows. - We construct a privately extractable watermarking PRF against quantum adversaries from the quantum hardness of the learning with errors (LWE) problem. The marking and extraction algorithms use a public parameter and a private extraction key, respectively. The watermarking PRF is unremovable even if adversaries have (the public parameter and) access to the extraction oracle, which returns a result of extraction for a queried quantum circuit. - We construct a publicly extractable watermarking PRF against quantum adversaries from indistinguishability obfuscation (IO) and the quantum hardness of the LWE problem. The marking and extraction algorithms use a public parameter and a public extraction key, respectively. The watermarking PRF is unremovable even if adversaries have the extraction key (and the public parameter). We develop a quantum extraction technique to extract information (a classical string) from a quantum state without destroying the state too much. We also introduce the notion of extraction-less watermarking PRFs as a crucial building block to achieve the results above by combining the tool with our quantum extraction technique.",
+      "date": "2022",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2022/631",
+      "accessDate": "2022-10-20T01:57:19Z",
+      "extra": "Report Number: 631",
+      "creators": [
+        {
+          "firstName": "Fuyuki",
+          "lastName": "Kitagawa",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ryo",
+          "lastName": "Nishimaki",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "post-quantum cryptography",
+          "type": 1
+        },
+        {
+          "tag": "watermarking",
+          "type": 1
+        },
+        {
+          "tag": "pseudorandom function",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-20T01:57:19Z",
+      "dateModified": "2022-10-20T01:57:19Z",
+      "uri": "http://zotero.org/users/9781610/items/734IKQBP",
+      "itemID": 174,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-20T01:57:22Z",
+          "dateModified": "2022-10-20T01:57:22Z",
+          "uri": "http://zotero.org/users/9781610/items/W66W9YPC",
+          "path": "D:\\Zotero\\data_download\\storage\\W66W9YPC\\Kitagawa \u548c Nishimaki - 2022 - Watermarking PRFs against Quantum Adversaries.pdf",
+          "select": "zotero://select/library/items/W66W9YPC"
+        }
+      ],
+      "notes": [],
+      "citationKey": "kitagawaWatermarkingPRFsQuantum2022",
+      "itemKey": "734IKQBP",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/734IKQBP"
+    },
+    {
+      "key": "WJJP7KUY",
+      "version": 923,
+      "itemType": "preprint",
+      "title": "On the Security of the Free-XOR Technique",
+      "abstractNote": "Yao's garbled-circuit approach enables constant-round secure two-party computation for any boolean circuit. In Yao's original construction, each gate in the circuit requires the parties to perform a constant number of encryptions/decryptions, and to send/receive a constant number of ciphertexts. Kolesnikov and Schneider (ICALP 2008) proposed an improvement that allows XOR gates in the circuit to be evaluated ``for free'', i.e., incurring no cryptographic operations and zero communication. Their ``free-XOR'' technique has proven very popular, and has been shown to improve performance of garbled-circuit protocols by up to a factor of~4. Kolesnikov and Schneider proved security of their approach in the random oracle model, and claimed that (an unspecified variant of) correlation robustness would suffice; this claim has been repeated in subsequent work, and similar ideas have since been used (with the same claim about correlation robustness) in other contexts. We show that, in fact, the free-XOR technique cannot be proven secure based on correlation robustness alone: somewhat surprisingly, some form of circular security is also required. We propose an appropriate notion of security for hash functions capturing the necessary requirements, and prove security of the free-XOR approach when instantiated with any hash function satisfying our definition. Our results do not impact the security of the free-XOR technique in practice, or imply an error in the free-XOR work, but instead pin down the assumptions needed to prove security.",
+      "date": "2011",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2011/510",
+      "accessDate": "2022-10-17T11:21:47Z",
+      "extra": "Report Number: 510",
+      "creators": [
+        {
+          "firstName": "Seung Geol Choi, Jonathan Katz, Ranjit",
+          "lastName": "Kumaresan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hong-Sheng",
+          "lastName": "Zhou",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-17T11:21:47Z",
+      "dateModified": "2022-10-17T11:21:47Z",
+      "uri": "http://zotero.org/users/9781610/items/WJJP7KUY",
+      "itemID": 143,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-17T11:21:49Z",
+          "dateModified": "2022-10-17T11:21:49Z",
+          "uri": "http://zotero.org/users/9781610/items/32BYE9VY",
+          "path": "D:\\Zotero\\data_download\\storage\\32BYE9VY\\Kumaresan \u548c Zhou - 2011 - On the Security of the Free-XOR Technique.pdf",
+          "select": "zotero://select/library/items/32BYE9VY"
+        }
+      ],
+      "notes": [],
+      "citationKey": "kumaresanSecurityFreeXORTechnique2011",
+      "itemKey": "WJJP7KUY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WJJP7KUY"
+    },
+    {
+      "key": "MDH94CNE",
+      "version": 1225,
+      "itemType": "journalArticle",
+      "title": "\u6570\u5b57\u6307\u7eb9\u7f16\u7801\u4e0e\u5d4c\u5165\u5047\u8bbe",
+      "abstractNote": "\u6570\u5b57\u6307\u7eb9\u7cfb\u7edf\u662f\u6570\u5b57\u6c34\u5370\u6280\u672f\u7684\u4e00\u4e2a\u91cd\u8981\u5206\u652f,\u662f\u7528\u4e8e\u76d7\u7248\u8ffd\u8e2a\u7684\u4e00\u79cd\u6280\u672f\u3002\u79bb\u6563\u6307\u7eb9\u7f16\u7801\u548c\u8fde\u7eed\u6307\u7eb9\u9cca\u7801\u662f\u6570\u5b57\u6307\u7eb9\u7814\u7a76\u9886\u57df\u7684\u4e24\u5927\u9635\u8425\u3002\u672c\u6587\u4ecb\u7ecd\u4e86\u5d4c\u5165\u5047\u8bbe\u5bf9\u6307\u7eb9\u7f16\u7801\u7814\u7a76\u7684\u91cd\u8981\u610f\u4e49,\u6307\u51fa\u8fd9\u4e24\u79cd\u7814\u7a76\u65b9\u5411\u7684\u4e3b\u8981\u5206\u6b67\u5728\u4e8e\u5bf9\u5f85\u5d4c\u5165\u5047\u8bbe\u6761\u4ef6\u7684\u6001\u5ea6\u4e0d\u540c\u3002\u4ece\u5d4c\u5165\u5047\u8bbe\u6761\u4ef6\u51fa\u53d1\u5206\u6790\u4e86\u79bb\u6563\u6307\u7eb9\u7f16\u7801\u548c\u8fde\u7eed\u6307\u7eb9\u7f16\u7801\u7684\u57fa\u672c\u601d\u8def\u3001\u9762\u4e34\u7684\u6311\u6218\u548c\u53d1\u5c55\u8d8b\u52bf\u3002",
+      "date": "2007",
+      "language": "zh_CN",
+      "libraryCatalog": "CNKI",
+      "url": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2007&filename=JSJA200711064&uniplatform=NZKPT&v=4M8fbSr9Jaj-1OSW3xYQMsUBijd7XsvKiwCriEGwTIj6bd-qn76_J-mPycOTvFQf",
+      "accessDate": "2022-10-25T03:18:21Z",
+      "extra": "<\u5317\u5927\u6838\u5fc3>",
+      "pages": "224-228",
+      "publicationTitle": "\u8ba1\u7b97\u673a\u79d1\u5b66",
+      "issue": "11",
+      "ISSN": "1002-137X",
+      "creators": [
+        {
+          "firstName": "\u680b",
+          "lastName": "\u674e",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "\u589e\u7965",
+          "lastName": "\u5362",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "\u6d77\u660e",
+          "lastName": "\u8def",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "\u5171\u8c0b\u653b\u51fb",
+          "type": 1
+        },
+        {
+          "tag": "\u5d4c\u5165\u5047\u8bbe",
+          "type": 1
+        },
+        {
+          "tag": "\u6570\u5b57\u6c34\u5370",
+          "type": 1
+        },
+        {
+          "tag": "Anti-collusion fingerprinting",
+          "type": 1
+        },
+        {
+          "tag": "Collusion attack",
+          "type": 1
+        },
+        {
+          "tag": "Marking assumption",
+          "type": 1
+        },
+        {
+          "tag": "\u6297\u5171\u8c0b\u6307\u7eb9",
+          "type": 1
+        },
+        {
+          "tag": "Digital watermarking",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-25T03:18:21Z",
+      "dateModified": "2022-10-25T03:18:21Z",
+      "uri": "http://zotero.org/users/9781610/items/MDH94CNE",
+      "itemID": 245,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-25T03:18:24Z",
+          "dateModified": "2022-10-25T03:18:24Z",
+          "uri": "http://zotero.org/users/9781610/items/H55QF57B",
+          "path": "D:\\Zotero\\data_download\\storage\\H55QF57B\\\u674e \u7b49\u3002 - 2007 - \u6570\u5b57\u6307\u7eb9\u7f16\u7801\u4e0e\u5d4c\u5165\u5047\u8bbe.pdf",
+          "select": "zotero://select/library/items/H55QF57B"
+        }
+      ],
+      "notes": [],
+      "citationKey": "liShuZiZhiWenBianMaYuQianRuJiaShe2007a",
+      "itemKey": "MDH94CNE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/MDH94CNE"
+    },
+    {
+      "key": "DE555MGN",
+      "version": 839,
+      "itemType": "preprint",
+      "title": "Post-Quantum Insecurity from LWE",
+      "abstractNote": "We show that for many fundamental cryptographic primitives, proving classical security under the learning-with-errors (LWE) assumption, does not imply post-quantum security. This is despite the fact that LWE is widely believed to be post-quantum secure, and our work does not give any evidence otherwise. Instead, it shows that post-quantum insecurity can arise inside cryptographic constructions, even if the assumptions are post-quantum secure. Concretely, our work provides (contrived) constructions of pseudorandom functions, CPA-secure symmetric-key encryption, message-authentication codes, signatures, and CCA-secure public-key encryption schemes, all of which are proven to be classically secure under LWE via black-box reductions, but demonstrably fail to be post-quantum secure. All of these cryptosystems are stateless and non-interactive, but their security is defined via an interactive game that allows the attacker to make oracle queries to the cryptosystem. The polynomial-time quantum attacker can break these schemes by only making a few classical queries to the cryptosystem, and in some cases, a single query suffices. Previously, we only had examples of post-quantum insecurity under post-quantum assumptions for stateful/interactive protocols. Moreover, there appears to be a folklore belief that for stateless/non-interactive cryptosystems with black-box proofs of security, a quantum attack against the scheme should translate into a quantum attack on the assumption. This work shows otherwise. Our main technique is to carefully embed interactive protocols inside the interactive security games of the above primitives. As a result of independent interest, we also show a 3-round quantum disclosure of secrets (QDS) protocol between a classical sender and a receiver, where a quantum receiver learns a secret message in the third round but, assuming LWE, a classical receiver does not.Fixed typos in Theorem 5.2 and Corollary 5.3.",
+      "date": "2022",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2022/869",
+      "accessDate": "2022-10-04T03:32:48Z",
+      "extra": "Report Number: 869",
+      "creators": [
+        {
+          "firstName": "Alex",
+          "lastName": "Lombardi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ethan",
+          "lastName": "Mook",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Willy",
+          "lastName": "Quach",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Daniel",
+          "lastName": "Wichs",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Post-quantum security",
+          "type": 1
+        },
+        {
+          "tag": "Quantum advantage",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-04T03:32:48Z",
+      "dateModified": "2022-10-04T03:32:48Z",
+      "uri": "http://zotero.org/users/9781610/items/DE555MGN",
+      "itemID": 117,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-04T03:32:51Z",
+          "dateModified": "2022-10-04T03:32:51Z",
+          "uri": "http://zotero.org/users/9781610/items/PAGI2U5J",
+          "path": "D:\\Zotero\\data_download\\storage\\PAGI2U5J\\Lombardi \u7b49\u3002 - 2022 - Post-Quantum Insecurity from LWE.pdf",
+          "select": "zotero://select/library/items/PAGI2U5J"
+        }
+      ],
+      "notes": [],
+      "citationKey": "lombardiPostQuantumInsecurityLWE2022",
+      "itemKey": "DE555MGN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/DE555MGN"
+    },
+    {
+      "key": "CNB2QDRV",
+      "version": 855,
+      "itemType": "preprint",
+      "title": "Covert Security with Public Verifiability: Faster, Leaner, and Simpler",
+      "abstractNote": "The notion of covert security for secure two-party computation serves as a compromise between the traditional semi-honest and malicious security definitions. Roughly, covert security ensures that cheating behavior is detected by the honest party with reasonable probability. It provides more realistic guarantees than semi-honest security with significantly less overhead than is required by malicious security. The rationale for covert security is that it dissuades cheating by parties that care about their reputation and do not want to risk being caught. Further thought, however, shows that a much stronger disincentive is obtained if the honest party can generate a publicly verifiable certificate of misbehavior when cheating is detected. While the corresponding notion of publicly verifiable covert (PVC) security has been explored, existing PVC protocols are complex and less efficient than the best-known covert protocols, and have impractically large certificates. We propose a novel PVC protocol that significantly improves on prior work. Our protocol uses only ``off-the-shelf'' primitives (in particular, it avoids signed oblivious transfer) and, for deterrence factor 1/2, has only 20-40% overhead (depending on the circuit size and network bandwidth) compared to state-of-the-art semi-honest protocols. Our protocol also has, for the first time, constant-size certificates of cheating (e.g., 354 bytes long at the 128-bit security level). As our protocol offers strong security guarantees with low overhead, we suggest that it is the best choice for many practical applications of secure two-party computation.",
+      "date": "2018",
+      "shortTitle": "Covert Security with Public Verifiability",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2018/1108",
+      "accessDate": "2022-10-11T03:23:33Z",
+      "extra": "Report Number: 1108",
+      "creators": [
+        {
+          "firstName": "Cheng Hong, Jonathan Katz, Vladimir Kolesnikov, Wen-jie",
+          "lastName": "Lu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Xiao",
+          "lastName": "Wang",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "covert security",
+          "type": 1
+        },
+        {
+          "tag": "secure computation",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-11T03:23:33Z",
+      "dateModified": "2022-10-11T03:23:33Z",
+      "uri": "http://zotero.org/users/9781610/items/CNB2QDRV",
+      "itemID": 124,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-11T03:23:38Z",
+          "dateModified": "2022-10-11T03:23:38Z",
+          "uri": "http://zotero.org/users/9781610/items/VLSRQGQN",
+          "path": "D:\\Zotero\\data_download\\storage\\VLSRQGQN\\Lu \u548c Wang - 2018 - Covert Security with Public Verifiability Faster,.pdf",
+          "select": "zotero://select/library/items/VLSRQGQN"
+        }
+      ],
+      "notes": [],
+      "citationKey": "luCovertSecurityPublic2018",
+      "itemKey": "CNB2QDRV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/CNB2QDRV"
+    },
+    {
+      "key": "5NUPRFGY",
+      "version": 922,
+      "itemType": "preprint",
+      "title": "Garbling Gadgets for Boolean and Arithmetic Circuits",
+      "abstractNote": "We present simple, practical, and powerful new techniques for garbled circuits. These techniques result in significant concrete and asymptotic improvements over the state of the art, for several natural kinds of computations. For arithmetic circuits over the integers, our construction results in garbled circuits with {\\em free} addition, weighted threshold gates with cost independent of fan-in, and exponentiation by a fixed exponent with cost independent of the exponent. For boolean circuits, our construction gives an {\\em exponential} improvement over the state of the art for threshold gates (including AND/OR gates) of high fan-in. Our construction can be efficiently instantiated with practical symmetric-key primitives (e.g., AES), and is proven secure under similar assumptions to that of the Free-XOR garbling scheme (Kolesnikov \\& Schneider, ICALP 2008). We give an extensive comparison between our scheme and state-of-the-art garbling schemes applied to boolean circuits.",
+      "date": "2016",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2016/969",
+      "accessDate": "2022-10-17T11:19:03Z",
+      "extra": "Report Number: 969",
+      "creators": [
+        {
+          "firstName": "Marshall Ball, Tal",
+          "lastName": "Malkin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Mike",
+          "lastName": "Rosulek",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "secure computation",
+          "type": 1
+        },
+        {
+          "tag": "arithmetic circuits",
+          "type": 1
+        },
+        {
+          "tag": "garbled circuits",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-17T11:19:03Z",
+      "dateModified": "2022-10-17T11:19:03Z",
+      "uri": "http://zotero.org/users/9781610/items/5NUPRFGY",
+      "itemID": 141,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-17T11:19:08Z",
+          "dateModified": "2022-10-17T11:19:08Z",
+          "uri": "http://zotero.org/users/9781610/items/XNJQ58KA",
+          "path": "D:\\Zotero\\data_download\\storage\\XNJQ58KA\\Malkin \u548c Rosulek - 2016 - Garbling Gadgets for Boolean and Arithmetic Circui.pdf",
+          "select": "zotero://select/library/items/XNJQ58KA"
+        }
+      ],
+      "notes": [],
+      "citationKey": "malkinGarblingGadgetsBoolean2016",
+      "itemKey": "5NUPRFGY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/5NUPRFGY"
+    },
+    {
+      "key": "DN9LJ5SY",
+      "version": 891,
+      "itemType": "preprint",
+      "title": "A PKI-based Framework for Establishing Efficient MPC Channels",
+      "abstractNote": "The Transport Layer Security (TLS) protocol is a fundamental building block for ensuring security on Internet. It provides an easy to use framework for the purposes of establishing an authenticated and secure channel between two parties that have never physically met. Nevertheless, TLS only provides a simple cryptographic functionality compared to more advanced protocols such as protocols for secure multiparty computation (MPC). In this work, we provide a framework for efficiently establishing channels for MPC over the Internet. We focus on MPC protocols in the oblivious transfer (OT) hybrid model such that it is sufficient to establish OT correlations for such a channel. We revisit and combine different notions of UC security proposed in both the MPC and authenticated key exchange settings. Through this work, we show how an OT protocol can be composed with a secure authenticator to ensure the authenticity of messages sent during the OT. In addition, we adapt and analyse non-interactive OTs based on dense key encapsulation mechanisms (KEMs) in the random oracle model, where the first message, i.e. public key, can be reused. These KEMs can be instantiated based on CDH, RSA and LWE and after a performance and security evaluation, it turns out that the resulting OT protocols are very competitive with the state of the art and are able to leverage existing PKIs.",
+      "date": "2021",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2021/1627",
+      "accessDate": "2022-10-15T08:18:05Z",
+      "extra": "Report Number: 1627",
+      "creators": [
+        {
+          "firstName": "Daniel",
+          "lastName": "Masny",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gaven",
+          "lastName": "Watson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Authentication",
+          "type": 1
+        },
+        {
+          "tag": "MPC",
+          "type": 1
+        },
+        {
+          "tag": "OT",
+          "type": 1
+        },
+        {
+          "tag": "PKI",
+          "type": 1
+        },
+        {
+          "tag": "Reusable MPC",
+          "type": 1
+        },
+        {
+          "tag": "UC",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-15T08:18:05Z",
+      "dateModified": "2022-10-15T08:18:05Z",
+      "uri": "http://zotero.org/users/9781610/items/DN9LJ5SY",
+      "itemID": 137,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-15T08:18:08Z",
+          "dateModified": "2022-10-15T08:18:08Z",
+          "uri": "http://zotero.org/users/9781610/items/X5VR4J5X",
+          "path": "D:\\Zotero\\data_download\\storage\\X5VR4J5X\\Masny \u548c Watson - 2021 - A PKI-based Framework for Establishing Efficient M.pdf",
+          "select": "zotero://select/library/items/X5VR4J5X"
+        }
+      ],
+      "notes": [],
+      "citationKey": "masnyPKIbasedFrameworkEstablishing2021",
+      "itemKey": "DN9LJ5SY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/DN9LJ5SY"
+    },
+    {
+      "key": "UN4UESSS",
+      "version": 929,
+      "itemType": "conferencePaper",
+      "title": "Fast and Secure Three-party Computation: The Garbled Circuit Approach",
+      "abstractNote": "Many deployments of secure multi-party computation (MPC) in practice have used information-theoretic three-party protocols that tolerate a single, semi-honest corrupt party, since these protocols enjoy very high efficiency. We propose a new approach for secure three-party computation (3PC) that improves security while maintaining practical efficiency that is competitive with traditional information-theoretic protocols. Our protocol is based on garbled circuits and provides security against a single, malicious corrupt party. Unlike information-theoretic 3PC protocols, ours uses a constant number of rounds. Our protocol only uses inexpensive symmetric-key cryptography: hash functions, block ciphers, pseudorandom generators (in particular, no oblivious transfers) and has performance that is comparable to that of Yao's (semi-honest) 2PC protocol. We demonstrate the practicality of our protocol with an implementation based on the JustGarble framework of Bellare et al. (S&P 2013). The implementation incorporates various optimizations including the most recent techniques for efficient circuit garbling. We perform experiments on several benchmarking circuits, in different setups. Our experiments confirm that, despite providing a more demanding security guarantee, our protocol has performance comparable to existing information-theoretic 3PC.",
+      "date": "\u5341\u6708 12, 2015",
+      "shortTitle": "Fast and Secure Three-party Computation",
+      "libraryCatalog": "ACM Digital Library",
+      "url": "https://doi.org/10.1145/2810103.2813705",
+      "accessDate": "2022-10-17",
+      "place": "New York, NY, USA",
+      "publisher": "Association for Computing Machinery",
+      "ISBN": "978-1-4503-3832-5",
+      "pages": "591\u2013602",
+      "series": "CCS '15",
+      "DOI": "10.1145/2810103.2813705",
+      "creators": [
+        {
+          "firstName": "Payman",
+          "lastName": "Mohassel",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Mike",
+          "lastName": "Rosulek",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ye",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "secure computation",
+          "type": 1
+        },
+        {
+          "tag": "garbled circuits",
+          "type": 1
+        },
+        {
+          "tag": "distributed password verification",
+          "type": 1
+        },
+        {
+          "tag": "three-party computation",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-17T11:27:02Z",
+      "dateModified": "2022-10-17T11:27:02Z",
+      "uri": "http://zotero.org/users/9781610/items/UN4UESSS",
+      "itemID": 147,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Fast and Secure Three-party Computation: The Garbled Circuit Approach",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-17T11:27:13Z",
+          "dateModified": "2022-10-17T11:27:13Z",
+          "uri": "http://zotero.org/users/9781610/items/TJ4VV9E2",
+          "path": "D:\\Zotero\\data_download\\storage\\TJ4VV9E2\\mohassel2015.pdf.pdf",
+          "select": "zotero://select/library/items/TJ4VV9E2"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Fast and Secure Three-party Computation: The Garbled Circuit Approach",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-23T11:25:02Z",
+          "dateModified": "2022-10-23T11:25:02Z",
+          "uri": "http://zotero.org/users/9781610/items/3I8P29XQ",
+          "path": "D:\\Zotero\\data_download\\storage\\3I8P29XQ\\mohassel2015.pdf.pdf",
+          "select": "zotero://select/library/items/3I8P29XQ"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Fast and Secure Three-party Computation: The Garbled Circuit Approach",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-23T11:25:00Z",
+          "dateModified": "2022-10-23T11:25:00Z",
+          "uri": "http://zotero.org/users/9781610/items/TRHADANX",
+          "path": "D:\\Zotero\\data_download\\storage\\TRHADANX\\mohassel2015.pdf.pdf",
+          "select": "zotero://select/library/items/TRHADANX"
+        }
+      ],
+      "notes": [],
+      "citationKey": "mohasselFastSecureThreeparty2015",
+      "itemKey": "UN4UESSS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/UN4UESSS",
+      "publicationTitle": "Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security"
+    },
+    {
+      "key": "K84E6G9P",
+      "version": 807,
+      "itemType": "preprint",
+      "title": "Classically Verifiable NIZK for QMA with Preprocessing",
+      "abstractNote": "We propose three constructions of classically verifiable non-interactive zero-knowledge proofs and arguments (CV-NIZK) for QMA in various preprocessing models. - We construct a CV-NIZK for QMA in the quantum secret parameter model where a trusted setup sends a quantum proving key to the prover and a classical verification key to the verifier. It is information theoretically sound and zero-knowledge. - Assuming the quantum hardness of the learning with errors problem, we construct a CV-NIZK for QMA in a model where a trusted party generates a CRS and the verifier sends an instance-independent quantum message to the prover as preprocessing. This model is the same as one considered in the recent work by Coladangelo, Vidick, and Zhang (CRYPTO '20). Our construction has the so-called dual-mode property, which means that there are two computationally indistinguishable modes of generating CRS, and we have information theoretical soundness in one mode and information theoretical zero-knowledge property in the other. This answers an open problem left by Coladangelo et al, which is to achieve either of soundness or zero-knowledge information theoretically. To the best of our knowledge, ours is the first dual-mode NIZK for QMA in any kind of model. - We construct a CV-NIZK for QMA with quantum preprocessing in the quantum random oracle model. This quantum preprocessing is the one where the verifier sends a random Pauli-basis states to the prover. Our construction uses the Fiat-Shamir transformation. The quantum preprocessing can be replaced with the setup that distributes Bell pairs among the prover and the verifier, and therefore we solve the open problem by Broadbent and Grilo (FOCS '20) about the possibility of NIZK for QMA in the shared Bell pair model via the Fiat-Shamir transformation.",
+      "date": "2021-02-17",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2102.09149",
+      "accessDate": "2022-10-02T13:50:03Z",
+      "extra": "arXiv:2102.09149 [quant-ph]\nversion: 1",
+      "DOI": "10.48550/arXiv.2102.09149",
+      "creators": [
+        {
+          "firstName": "Tomoyuki",
+          "lastName": "Morimae",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Takashi",
+          "lastName": "Yamakawa",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computational Complexity",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Cryptography and Security",
+          "type": 1
+        },
+        {
+          "tag": "Quantum Physics",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-02T13:50:03Z",
+      "dateModified": "2022-10-02T13:50:03Z",
+      "uri": "http://zotero.org/users/9781610/items/K84E6G9P",
+      "itemID": 95,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "arXiv Fulltext PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T13:50:35Z",
+          "dateModified": "2022-10-02T13:50:35Z",
+          "uri": "http://zotero.org/users/9781610/items/NQCEN9DX",
+          "path": "D:\\Zotero\\data_download\\storage\\NQCEN9DX\\Morimae \u548c Yamakawa - 2021 - Classically Verifiable NIZK for QMA with Preproces.pdf",
+          "select": "zotero://select/library/items/NQCEN9DX"
+        },
+        {
+          "itemType": "attachment",
+          "title": "arXiv.org Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T13:50:47Z",
+          "dateModified": "2022-10-02T13:50:47Z",
+          "uri": "http://zotero.org/users/9781610/items/WD9LRDQ9",
+          "path": "D:\\Zotero\\data_download\\storage\\WD9LRDQ9\\2102.html",
+          "select": "zotero://select/library/items/WD9LRDQ9"
+        }
+      ],
+      "notes": [
+        {
+          "key": "QNFRT3T8",
+          "version": 807,
+          "itemType": "note",
+          "parentItem": "K84E6G9P",
+          "note": "Comment: 46 pages This is a major update version of arXiv:2003.10712. A new result, NIZK via Fiat-Shamir, is added. (Sec.5)",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2022-10-02T13:50:03Z",
+          "dateModified": "2022-10-02T13:50:03Z",
+          "uri": "http://zotero.org/users/9781610/items/QNFRT3T8"
+        }
+      ],
+      "citationKey": "morimaeClassicallyVerifiableNIZK2021",
+      "itemKey": "K84E6G9P",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/K84E6G9P",
+      "number": "arXiv:2102.09149",
+      "publisher": "arXiv"
+    },
+    {
+      "key": "9CFCAKA6",
+      "version": 822,
+      "itemType": "preprint",
+      "title": "Multi-Client Functional Encryption with Fine-Grained Access Control",
+      "abstractNote": "Multi-Client Functional Encryption () and Multi-Input Functional Encryption () are very interesting extensions of Functional Encryption for practical purpose. They allow to compute joint function over data from multiple parties. Both primitives are aimed at applications in multi-user settings where decryption can be correctly output for users with appropriate functional decryption keys only. While the definitions for a single user or multiple users were quite general and can be realized for general classes of functions as expressive as Turing machines or all circuits, efficient schemes have been proposed so far for concrete classes of functions: either only for access control,the identity function under some conditions, or linear/quadratic functions under no condition. In this paper, we target classes of functions that explicitly combine some evaluation functions independent of the decrypting user under the condition of some access control. More precisely, we introduce a framework forwith fine-grained access control and propose constructions for both single-client and multi-client settings, for inner-product evaluation and access control via Linear Secret Sharing Schemes (), with selective and adaptive security. The only known work that combines functional encryption in multi-user setting with access control was proposed by Abdalla(Asiacrypt '20), which relies on a generic transformation from the single-client schemes to obtainschemes that suffer a quadratic factor of(wheredenotes the number of clients) in the ciphertext size. We follow a different path, via: we present atechnique to transform the single-client scheme and obtain awith fine-grained access control scheme with only a linear factor ofin the ciphertext size. Our final scheme thus outperforms the Abdalla's scheme by a factor, as one can obtainfromby making all the labels ina fixed public constant. The concrete constructions are secure under theassumption, in the random oracle model for thescheme, but in the standard model for theimprovement.",
+      "date": "2022",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2022/215",
+      "accessDate": "2022-10-02T14:26:46Z",
+      "extra": "Report Number: 215",
+      "creators": [
+        {
+          "firstName": "Ky",
+          "lastName": "Nguyen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Duong Hieu",
+          "lastName": "Phan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David",
+          "lastName": "Pointcheval",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "access control",
+          "type": 1
+        },
+        {
+          "tag": "adaptive security.",
+          "type": 1
+        },
+        {
+          "tag": "Multi-client functional encryption",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-02T14:26:46Z",
+      "dateModified": "2022-10-02T14:26:46Z",
+      "uri": "http://zotero.org/users/9781610/items/9CFCAKA6",
+      "itemID": 103,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T14:26:49Z",
+          "dateModified": "2022-10-02T14:26:49Z",
+          "uri": "http://zotero.org/users/9781610/items/8LBK599Z",
+          "path": "D:\\Zotero\\data_download\\storage\\8LBK599Z\\Nguyen \u7b49\u3002 - 2022 - Multi-Client Functional Encryption with Fine-Grain.pdf",
+          "select": "zotero://select/library/items/8LBK599Z"
+        }
+      ],
+      "notes": [],
+      "citationKey": "nguyenMultiClientFunctionalEncryption2022",
+      "itemKey": "9CFCAKA6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9CFCAKA6"
+    },
+    {
+      "key": "DVAQDITK",
+      "version": 991,
+      "itemType": "preprint",
+      "title": "Equipping Public-Key Cryptographic Primitives with Watermarking (or: A Hole Is to Watermark)",
+      "abstractNote": "Program watermarking enables users to embed an arbitrary string called a mark into a program while preserving the functionality of the program. Adversaries cannot remove the mark without destroying the functionality. Although there exist generic constructions of watermarking schemes for public-key cryptographic (PKC) primitives, those schemes are constructed from scratch and not efficient. In this work, we present a general framework to equip a broad class of PKC primitives with an efficient watermarking scheme. The class consists of PKC primitives that have a canonical all-but-one (ABO) reduction. Canonical ABO reductions are standard techniques to prove selective security of PKC primitives, where adversaries must commit a target attribute at the beginning of the security game. Thus, we can obtain watermarking schemes for many existing efficient PKC schemes from standard cryptographic assumptions via our framework. Most well-known selectively secure PKC schemes have canonical ABO reductions. Notably, we can achieve watermarking for public-key encryption whose ciphertexts and secret-keys are constant-size, and that is chosen-ciphertext secure. Our approach accommodates the canonical ABO reduction technique to the puncturable pseudorandom function (PRF) technique, which is used to achieve watermarkable PRFs. We find that canonical ABO reductions are compatible with such puncturable PRF-based watermarking schemes.",
+      "date": "2020",
+      "shortTitle": "Equipping Public-Key Cryptographic Primitives with Watermarking (or",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2020/1173",
+      "accessDate": "2022-10-19T16:52:55Z",
+      "extra": "Report Number: 1173",
+      "creators": [
+        {
+          "firstName": "Ryo",
+          "lastName": "Nishimaki",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "watermarking",
+          "type": 1
+        },
+        {
+          "tag": "all-but-one reduction",
+          "type": 1
+        },
+        {
+          "tag": "public-key cryptography",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-19T16:52:55Z",
+      "dateModified": "2022-10-19T16:52:55Z",
+      "uri": "http://zotero.org/users/9781610/items/DVAQDITK",
+      "itemID": 168,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-19T16:52:58Z",
+          "dateModified": "2022-10-19T16:52:58Z",
+          "uri": "http://zotero.org/users/9781610/items/49KUXESC",
+          "path": "D:\\Zotero\\data_download\\storage\\49KUXESC\\Nishimaki - 2020 - Equipping Public-Key Cryptographic Primitives with.pdf",
+          "select": "zotero://select/library/items/49KUXESC"
+        }
+      ],
+      "notes": [],
+      "citationKey": "nishimakiEquippingPublicKeyCryptographic2020",
+      "itemKey": "DVAQDITK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/DVAQDITK"
+    },
+    {
+      "key": "S7PAIFUE",
+      "version": 19,
+      "itemType": "note",
+      "note": "<div data-schema-version=\"8\"><h1>Zotero Better Notes \u7528\u6237\u6307\u5f15\uff1a\u5de5\u4f5c\u6d41</h1>\n<p><a href=\"zotero://note/u/TRKGIHW6/?ignore=1\" rel=\"noopener noreferrer nofollow\"></a></p>\n<p>\u6b22\u8fce\u4f7f\u7528 <strong>Zotero Better Notes</strong> !</p>\n<p>\u672c\u7b14\u8bb0\u5e2e\u52a9\u60a8\u57283\u5206\u949f\u5185\u5feb\u901f\u5b66\u4e60\u5982\u4f55\u4f7f\u7528\u6b64\u63d2\u4ef6\uff01</p>\n<p>\u73b0\u5728\u5f00\u59cb\u5427\u3002</p>\n<p>\u5728GitHub\u4e0a\u9605\u8bfb\u5e26\u6709\u56fe\u7247\u7684\u5b8c\u6574\u6587\u6863: <a href=\"https://github.com/windingwind/zotero-better-notes/blob/master/UserGuide.md\" rel=\"noopener noreferrer nofollow\">User Guide(EN)</a> | <a href=\"https://github.com/windingwind/zotero-better-notes/blob/master/UserGuideCN.md\" rel=\"noopener noreferrer nofollow\">\u7528\u6237\u6307\u5f15(\u4e2d\u6587)</a></p>\n<p></p>\n<h2>1 \u8ba4\u8bc6 Better Notes</h2>\n<p>Better Notes\u662fZotero\u5185\u7f6enote\u529f\u80fd\u7684\u6269\u5c55\u3002</p>\n<p>Zotero\u7684note\u5f88\u50cf\u4e00\u4e2a\u6807\u8bb0/\u5bcc\u6587\u672c\u7f16\u8f91\u5668\u3002\u60a8\u53ef\u4ee5\u4f7f\u7528\u4e0a\u65b9\u5de5\u5177\u7f16\u8f91\u683c\u5f0f\u2b06\ufe0f\u3002</p>\n<h3>1.1 \u5de5\u4f5c\u533a\u7a97\u53e3</h3>\n<p>\u77e5\u8bc6\u5de5\u4f5c\u533a\u7a97\u53e3\u5305\u542b\u4e00\u4e2a\u5927\u7eb2\u533a\u57df\uff08\u5de6\u4fa7\u2b05\ufe0f\uff09\uff0c\u4e3b\u7b14\u8bb0\u533a\u57df\u548c\u9884\u89c8\u533a\u57df\uff08\u53f3\u4fa7\u27a1\ufe0f\uff09\u3002</p>\n<p><span style=\"color: rgb(51, 51, 51)\">|---------------||----------------||----------------|</span></p>\n<p><span style=\"color: rgb(51, 51, 51)\">| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; || &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; |</span></p>\n<p><span style=\"color: rgb(51, 51, 51)\">| &nbsp; &nbsp; &nbsp;\u5927\u7eb2 &nbsp;&nbsp;&nbsp; || &nbsp; &nbsp;\u4e3b\u7b14\u8bb0 &nbsp; &nbsp;&nbsp;|| &nbsp; &nbsp;&nbsp; \u9884\u89c8 &nbsp; &nbsp;&nbsp; |</span></p>\n<p><span style=\"color: rgb(51, 51, 51)\">| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; || &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; || &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; |</span></p>\n<p><span style=\"color: rgb(51, 51, 51)\">|------------ --||---------------||----------------|</span></p>\n<p>\u5728Zotero\u4e3b\u7a97\u53e3\u4e2d\u5355\u51fb\u201c\u6211\u7684\u6587\u5e93\u201d\u4e0a\u65b9\u7684<span style=\"background-color: #ffd40080\">\u201cOpen Workspace\u201d</span>\u6765\u6253\u5f00\u5de5\u4f5c\u533a\u3002\u6216\u8005\uff0c\u7528\u7b14\u8bb0\u7f16\u8f91\u5668\u5de6\u4e0a\u89d2\u7684<span style=\"background-color: #ffd40080\">\u201c\ud83c\udfe0\u4e3b\u9875\u201d\u6309\u94ae</span>\u3002</p>\n<p>\u5de5\u4f5c\u533a\u7a97\u53e3\u7684\u5de6\u4e0a\u65b9\u83dc\u5355\u680f\uff08\u5728MacOS\u4e2d\uff0c\u662f\u5c4f\u5e55\u5de6\u4e0a\u89d2\uff09\u4e2d\u96c6\u6210\u4e86\u5927\u591a\u6570\u529f\u80fd\uff0c\u5c06\u5728\u540e\u7eed\u7ae0\u8282\u8fdb\u884c\u4ecb\u7ecd\u3002</p>\n<h3>1.2 \u4e3b\u7b14\u8bb0</h3>\n<p>\u8fd9\u4e2a\u63d2\u4ef6\u4f7f\u7528\u67d0\u4e00\u4e2aZotero note\u4f5c\u4e3a\u4e3b\u7b14\u8bb0\u3002\u5b83\u5c06\u663e\u793a\u5728\u5de5\u4f5c\u533a\u7a97\u53e3\u7684\u4e3b\u7b14\u8bb0\u533a\u57df\u3002</p>\n<p>\u6240\u6709\u94fe\u63a5\u90fd\u5c06\u6dfb\u52a0\u5230\u4e3b\u7b14\u8bb0\u4e2d\u3002</p>\n<p>\u70b9\u51fb\u5de5\u4f5c\u533a\u7a97\u53e3\u4e2d\u7684<span style=\"background-color: #ffd40080\">\u83dc\u5355\u680f -&gt; \u6587\u4ef6 -&gt; \u6253\u5f00\u4e3b\u7b14\u8bb0</span>\u6765\u9009\u62e9\u4e0d\u540c\u7684note\u4f5c\u4e3a\u4e3b\u7b14\u8bb0\u3002</p>\n<p></p>\n<h2>2 \u5728\u4e3b\u7b14\u8bb0\u4e2d\u6536\u96c6\u60f3\u6cd5</h2>\n<h3>2.1 \u4eceNote</h3>\n<p>\u5728\u5de5\u4f5c\u533a\u7a97\u53e3\u5916\u9009\u62e9\u4e00\u4e2anote\uff08\u5728Zotero \u6761\u76ee\u89c6\u56fe\u6216PDF\u9605\u8bfb\u5668\u4e2d\uff09\uff0c\u60a8\u4f1a\u5728\u7b14\u8bb0\u7f16\u8f91\u5668\u5de5\u5177\u680f\u9876\u90e8\u770b\u5230\u4e00\u4e2a<span style=\"background-color: #ffd40080\">\u5e26\u6709\u672c\u63d2\u4ef6\u56fe\u6807\u7684\u6309\u94ae</span>\u3002</p>\n<p>\u70b9\u51fb\u5b83\uff0c\u5f53\u524d\u7b14\u8bb0\u7684\u94fe\u63a5\u5c06\u63d2\u5165\u4e3b\u7b14\u8bb0\u7684\u5149\u6807\u4f4d\u7f6e\uff1b</p>\n<p>\u9009\u62e9\u4e00\u4e2a\u6807\u9898\u5c42\u7ea7\uff0c\u7b14\u8bb0\u7684\u94fe\u63a5\u5c06\u63d2\u5165\u8be5\u6807\u9898\u7684\u672b\u5c3e\u3002</p>\n<blockquote>\n<p><strong>\ud83d\udca1 \u5c1d\u8bd5\u4e00\u4e0b!</strong></p>\n<p>\u6253\u5f00PDF\u5e76\u6253\u5f00/\u521b\u5efa\u7b14\u8bb0\uff08\u5728PDF \u9605\u8bfb\u5668\u7684\u53f3\u4fa7\u680f\u4e2d\uff09\u3002\u7528\u4e0a\u9762\u7684\u65b9\u6cd5\u5728\u8fd9\u6761\u4e3b\u7b14\u8bb0\u6dfb\u52a0\u4e00\u4e2a\u94fe\u63a5\u3002</p>\n</blockquote>\n<p></p>\n<h4>2.1.1 \u7528\u6765\u63d2\u5165\u94fe\u63a5\u7684\u4f4d\u7f6e</h4>\n<p>\u4f60\u53ef\u4ee5\u5728\u8fd9\u91cc\u63d2\u5165\u94fe\u63a5\u3002</p>\n<p></p>\n<h3>2.2 \u4eceAnnotation\uff08\u6279\u6ce8\u9ad8\u4eae\uff09</h3>\n<p>\u4f60\u53ef\u4ee5\u5728\u6bcf\u4e2a\u6279\u6ce8\u4e0a\u627e\u5230\u4e00\u4e2a<span style=\"background-color: #ffd40080\">\u5e26\u6709\u63d2\u4ef6\u56fe\u6807\u7684\u6309\u94ae</span>\uff08\u5728PDF \u9605\u8bfb\u5668\u7684\u5de6\u4fa7\u680f\u4e2d\uff09\u3002</p>\n<p>\u5355\u51fb\u5b83\uff0cPDF\u9879\u76ee\u4e0b\u5c06\u521b\u5efa\u4e00\u4e2a\u5e26\u6709\u6b64\u6279\u6ce8\u7684\u65b0\u7b14\u8bb0\u3002\u4e5f\u53ef\u4ee5\u5728\u6253\u5f00\u7684\u7b14\u8bb0\u7f16\u8f91\u5668\u4e2d\u5c06\u94fe\u63a5\u6dfb\u52a0\u5230\u4e3b\u7b14\u8bb0\u3002</p>\n<blockquote>\n<p><strong>\ud83d\udca1 \u5c1d\u8bd5\u4e00\u4e0b!</strong></p>\n<p>\u6253\u5f00PDF\u5e76\u6253\u5f00/\u521b\u5efa\u6279\u6ce8\u9ad8\u4eae\uff08\u5728PDF \u9605\u8bfb\u5668\u7684\u5de6\u4fa7\u680f\u4e2d\uff09\u3002\u7528\u4e0a\u9762\u7684\u65b9\u6cd5\u5728\u8fd9\u6761\u4e3b\u7b14\u8bb0\u6dfb\u52a0\u4e00\u4e2a\u94fe\u63a5\u3002</p>\n</blockquote>\n<p></p>\n<h2>3 \u67e5\u770b\u5de5\u4f5c\u533a\u7a97\u53e3\u4e2d\u7684\u94fe\u63a5\u7b14\u8bb0</h2>\n<h3>3.1 \u67e5\u770b\u94fe\u63a5\u7b14\u8bb0</h3>\n<p>\u5047\u8bbe\u4f60\u5df2\u7ecf\u5728\u4e3b\u7b14\u8bb0\u6dfb\u52a0\u4e86\u5f88\u591a\u7684\u94fe\u63a5\u3002\u73b0\u5728\uff0c\u662f\u65f6\u5019\u770b\u770b\u4f60\u7684\u7ed3\u679c\u4e86\u3002</p>\n<p>\u8fd4\u56de\u5de5\u4f5c\u533a\u7a97\u53e3\u3002</p>\n<p>\u5355\u51fb\u94fe\u63a5\uff0c\u94fe\u63a5\u7684\u7b14\u8bb0\u5c06\u663e\u793a\u5728\u9884\u89c8\u533a\u57df\uff08\u53f3\u4fa7\u27a1\ufe0f\uff09\u3002</p>\n<p>Referred in <a href=\"zotero://note/u/S7PAIFUE/?ignore=1\" rel=\"noopener noreferrer nofollow\">Zotero Better Notes \u7528\u6237\u6307\u5f15\uff1a\u5de5\u4f5c\u6d41</a></p>\n<p><a href=\"zotero://note/u/S7PAIFUE/\" rel=\"noopener noreferrer nofollow\">Zotero Better Notes \u7528\u6237\u6307\u5f15\uff1a\u5de5\u4f5c\u6d41</a></p>\n<p>Referred in <a href=\"zotero://note/u/S7PAIFUE/?ignore=1\" rel=\"noopener noreferrer nofollow\">Zotero Better Notes \u7528\u6237\u6307\u5f15\uff1a\u5de5\u4f5c\u6d41</a></p>\n<p><a href=\"zotero://note/u/S7PAIFUE/\" rel=\"noopener noreferrer nofollow\">Zotero Better Notes \u7528\u6237\u6307\u5f15\uff1a\u5de5\u4f5c\u6d41</a></p>\n<p>Referred in <a href=\"zotero://note/u/S7PAIFUE/?ignore=1\" rel=\"noopener noreferrer nofollow\">Zotero Better Notes \u7528\u6237\u6307\u5f15\uff1a\u5de5\u4f5c\u6d41</a></p>\n<p><a href=\"zotero://note/u/S7PAIFUE/\" rel=\"noopener noreferrer nofollow\">Zotero Better Notes \u7528\u6237\u6307\u5f15\uff1a\u5de5\u4f5c\u6d41</a></p>\n<blockquote>\n<p><strong>\ud83d\udca1 \u5c1d\u8bd5\u4e00\u4e0b!</strong></p>\n<p>\u5728\u5de5\u4f5c\u533a\u7a97\u53e3\u6253\u5f00\u4e00\u4e2a\u7b14\u8bb0\u94fe\u63a5\u3002</p>\n</blockquote>\n<p></p>\n<h2>4 \u5927\u7eb2\u89c6\u56fe</h2>\n<p>\u70b9\u51fb\u5927\u7eb2\u533a\u57df\u5de6\u4e0b\u89d2\u7684 <span style=\"background-color: #ffd40080\">\u2018\ud83d\udcca\u5927\u7eb2\u6a21\u5f0f\u2018 \u6309\u94ae</span> \u6765\u5207\u6362\u5927\u7eb2\u89c6\u56fe\u6a21\u5f0f\u3002</p>\n<blockquote>\n<p><strong>\ud83d\udca1 \u5c1d\u8bd5\u4e00\u4e0b!</strong></p>\n<p>\u5c1d\u8bd5\u4e0d\u540c\u7684\u5927\u7eb2\u6a21\u5f0f\uff08\u601d\u7ef4\u5bfc\u56fe\uff09</p>\n</blockquote>\n<p></p>\n<h2>5 LaTex\u652f\u6301</h2>\n<p>\u70b9\u51fb\u7b14\u8bb0\u7f16\u8f91\u5668\u5de5\u5177\u680f\u4e2d'TEX'\u6309\u94ae\u6765\u5207\u6362\u9884\u89c8\u548c\u7f16\u8f91\u6a21\u5f0f\u3002</p>\n<p></p>\n<h2>3.2 \u67e5\u770b\u94fe\u63a5\u7b14\u8bb0\u7684 PDF</h2>\n<p>\u5728\u4e0a\u4e00\u6b65\u6253\u5f00\u7684\u9884\u89c8\u7b14\u8bb0\u4e2d\uff0c\u70b9\u51fb\u9884\u89c8\u533a\u5de6\u4e0a\u89d2\u7684<span style=\"background-color: #ffd40080\">\u201c\ud83d\udcc4PDF\u201d\u6309\u94ae</span>\u3002</p>\n<blockquote>\n<p><strong>\ud83d\udca1\u5c1d\u8bd5\u4e00\u4e0b!</strong></p>\n<p>\u6253\u5f00\u4e00\u4e2a\u94fe\u63a5\u7b14\u8bb0\u7684 PDF\u3002</p>\n</blockquote>\n<h2>6 \u5bfc\u51fa</h2>\n<p>\u70b9\u51fb\u4e3b\u7b14\u8bb0\u533a\u57df\u53f3\u4e0a\u89d2\u7684<span style=\"background-color: #ffd40080\">\u201c\u2b06\ufe0f\u5bfc\u51fa\u201d\u6309\u94ae</span>\u3002\u9009\u62e9\u8981\u5bfc\u51fa\u7684\u683c\u5f0f\uff0c\u6bd4\u5982MarkDown\u3002</p>\n<p>\u5982\u679c\u60a8\u4f7f\u7528\u7684\u662fMS Word/OneNote\uff0c\u8bf7\u5bfc\u51fa\u5230\u526a\u8d34\u677f\u5e76\u7c98\u8d34\u5230\u90a3\u91cc\u3002</p>\n<blockquote>\n<p><strong>\ud83d\udca1 \u5c1d\u8bd5\u4e00\u4e0b!</strong></p>\n<p>\u5bfc\u51fa\u8fd9\u4e2a\u4e3b\u7b14\u8bb0\uff01</p>\n</blockquote>\n<p></p>\n<h2>7 \u5f00\u59cb\u65b0\u7684\u4efb\u52a1</h2>\n<p>\u5bfc\u51fa\u540e\uff0c\u60a8\u53ef\u80fd\u5e0c\u671b\u4f7f\u7528\u65b0\u7684\u7a7a\u4e3b\u7b14\u8bb0\u5f00\u59cb\u65b0\u4efb\u52a1\u3002</p>\n<p>\u521b\u5efa\u4e00\u4e2anote\u7b14\u8bb0\uff0c\u7136\u540e\u53f3\u952e\u5355\u51fb\u5c06\u5176\u8bbe\u7f6e\u4e3a\u4e3b\u7b14\u8bb0\uff1b\u6216\u8005\u76f4\u63a5\u521b\u5efa\u4e00\u4e2a\u65b0\u7684\u4e3b\u7b14\u8bb0\u3002</p>\n<p>\u4f7f\u7528\u83dc\u5355\u680f\u4e2d\u7684<span style=\"background-color: #ffd40080\">\u6587\u4ef6-&gt;\u6253\u5f00\u4e3b\u7b14\u8bb0/\u521b\u5efa\u65b0\u4e3b\u7b14\u8bb0</span>\u6765\u5207\u6362\u4e0d\u540c\u7684\u4e3b\u7b14\u8bb0\u3002</p>\n<blockquote>\n<p><strong>\u2728 \u63d0\u793a</strong></p>\n<p>\u521b\u5efa\u4e00\u4e2a\u65b0\u7684\u6587\u4ef6\u5939\u5e76\u5728\u5176\u4e2d\u4e13\u95e8\u4fdd\u5b58\u6240\u6709\u7684\u4e3b\u7b14\u8bb0\u2014\u2014\u8fd9\u662f\u7ba1\u7406\u4e3b\u7b14\u8bb0\u7684\u6700\u4f73\u65b9\u6cd5\u3002</p>\n<p>\u7528\u6237\u6307\u5f15\u5e94\u8be5\u5df2\u7ecf\u4e3a\u60a8\u505a\u5230\u4e86\u8fd9\u4e00\u70b9\u3002</p>\n</blockquote>\n<p></p>\n<p>\u606d\u559c!</p>\n<p>\u4f60\u73b0\u5728\u53ef\u4ee5\u9009\u62e9\u6216\u65b0\u5efa\u4e00\u4e2a\u4e3b\u7b14\u8bb0\uff0c\u7136\u540e\u5f00\u59cb\u4f7f\u7528 <strong>Zotero Better Notes</strong>\u4e86\u3002\u7528\u7684\u5f00\u5fc3\uff01</p>\n<p></p></div>",
+      "tags": [],
+      "collections": [
+        "ELRTGZDA"
+      ],
+      "relations": {},
+      "dateAdded": "2022-07-16T06:06:45Z",
+      "dateModified": "2022-07-16T06:24:09Z",
+      "uri": "http://zotero.org/users/9781610/items/S7PAIFUE",
+      "itemID": 5,
+      "itemKey": "S7PAIFUE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/S7PAIFUE"
+    },
+    {
+      "key": "IRS6Y67C",
+      "version": 942,
+      "itemType": "preprint",
+      "title": "Communication-Efficient (Client-Aided) Secure Two-Party Protocols and Its Application",
+      "abstractNote": "Secure multi-party computation (MPC) allows a set of parties to compute a function jointly while keeping their inputs private. Compared with the MPC based on garbled circuits,some recent research results show that MPC based on secret sharing (SS) works at a very high speed. Moreover, SS-based MPC can be easily vectorized and achieve higher throughput. In SS-based MPC, however, we need many communication rounds for computing concrete protocols like equality check, less-than comparison, etc. This property is not suited for large-latency environments like the Internet (or WAN). In this paper, we construct semi-honest secure communication-efficient two-party protocols. The core technique is Beaver triple extension, which is a new tool for treating multi-fan-in gates, and we also show how to use it efficiently. We mainly focus on reducing the number of communication rounds, and our protocols also succeed in reducing the number of communication bits (in most cases). As an example, we propose a less-than comparison protocol (under practical parameters) with three communication rounds. Moreover, the number of communication bits is also $38.4\\%$ fewer. As a result, total online execution time is $56.1\\%$ shorter than the previous work adopting the same settings. Although the computation costs of our protocols are more expensive than those of previous work, we confirm via experiments that such a disadvantage has small effects on the whole online performance in the typical WAN environments.",
+      "date": "2020-01-04",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/1907.03415",
+      "accessDate": "2022-10-18T13:34:54Z",
+      "extra": "arXiv:1907.03415 [cs]",
+      "DOI": "10.48550/arXiv.1907.03415",
+      "creators": [
+        {
+          "firstName": "Satsuya",
+          "lastName": "Ohata",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Koji",
+          "lastName": "Nuida",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Cryptography and Security",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-18T13:34:54Z",
+      "dateModified": "2022-10-18T13:34:54Z",
+      "uri": "http://zotero.org/users/9781610/items/IRS6Y67C",
+      "itemID": 153,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "arXiv Fulltext PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-18T13:35:18Z",
+          "dateModified": "2022-10-18T13:35:18Z",
+          "uri": "http://zotero.org/users/9781610/items/HKYCV9ZL",
+          "path": "D:\\Zotero\\data_download\\storage\\HKYCV9ZL\\Ohata \u548c Nuida - 2020 - Communication-Efficient (Client-Aided) Secure Two-.pdf",
+          "select": "zotero://select/library/items/HKYCV9ZL"
+        },
+        {
+          "itemType": "attachment",
+          "title": "arXiv.org Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-18T13:35:32Z",
+          "dateModified": "2022-10-18T13:35:32Z",
+          "uri": "http://zotero.org/users/9781610/items/7LP2PPNG",
+          "path": "D:\\Zotero\\data_download\\storage\\7LP2PPNG\\1907.html",
+          "select": "zotero://select/library/items/7LP2PPNG"
+        }
+      ],
+      "notes": [
+        {
+          "key": "FAZX3BXV",
+          "version": 942,
+          "itemType": "note",
+          "parentItem": "IRS6Y67C",
+          "note": "Comment: Financial Cryptography and Data Security 2020",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2022-10-18T13:34:54Z",
+          "dateModified": "2022-10-18T13:34:54Z",
+          "uri": "http://zotero.org/users/9781610/items/FAZX3BXV"
+        }
+      ],
+      "citationKey": "ohataCommunicationEfficientClientAidedSecure2020",
+      "itemKey": "IRS6Y67C",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IRS6Y67C",
+      "number": "arXiv:1907.03415",
+      "publisher": "arXiv"
+    },
+    {
+      "key": "5MSLFE5P",
+      "version": 812,
+      "itemType": "webpage",
+      "title": "Paper: Non-Interactive Secure Computation of Inner-Product from LPN and LWE",
+      "url": "https://iacr.org/cryptodb/data/paper.php?pubkey=32405",
+      "accessDate": "2022-10-02T14:15:15Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-02T14:15:15Z",
+      "dateModified": "2022-10-02T14:15:15Z",
+      "uri": "http://zotero.org/users/9781610/items/5MSLFE5P",
+      "itemID": 99,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Paper: Non-Interactive Secure Computation of Inner-Product from LPN and LWE",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T14:15:23Z",
+          "dateModified": "2022-10-02T14:15:23Z",
+          "uri": "http://zotero.org/users/9781610/items/PG3FGNCP",
+          "path": "D:\\Zotero\\data_download\\storage\\PG3FGNCP\\paper.html",
+          "select": "zotero://select/library/items/PG3FGNCP"
+        }
+      ],
+      "notes": [],
+      "citationKey": "PaperNonInteractiveSecure",
+      "itemKey": "5MSLFE5P",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/5MSLFE5P"
+    },
+    {
+      "key": "D7EBR2HH",
+      "version": 836,
+      "itemType": "preprint",
+      "title": "Zero-Knowledge Protocols for the Subset Sum Problem from MPC-in-the-Head with Rejection",
+      "abstractNote": "We propose (honest verifier) zero-knowledge arguments for the modular subset sum problem. Given a set of integers, this problem asks whether a subset adds up to a given integer t modulo a given integer q. This NP-complete problem is considered since the 1980s as an interesting alternative in cryptography to hardness assumptions based on number theory and it is in particular believed to provide post-quantum security. Previous combinatorial approaches, notably one due to Shamir, yield arguments with cubic communication complexity (in the security parameter). More recent methods, based on the MPC-in-the-head technique, also produce arguments with cubic communication complexity and only for prime modulus q. We improve this approach by using a secret-sharing over small integers (rather than modulo q) to reduce the size of the arguments and remove the prime modulus restriction. Since this sharing may reveal information on the secret subset, we introduce the idea of rejection to the MPC-in-the-head paradigm. Special care has to be taken to balance completeness and soundness and preserve zero-knowledge of our arguments. We combine this idea with two techniques to prove that the secret vector (which selects the subset) is well made of binary coordinates. Our new techniques have the significant advantage to result in arguments of size independent of the modulus q. Our new protocols for the subset sum problem achieve an asymptotic improvement by producing arguments of quadratic size (against cubic size for previous proposals). This improvement is also practical: for a 256-bit modulus q, the best variant of our protocols yields 13KB arguments while previous proposals gave 1180KB arguments, for the best general protocol, and 122KB, for the best protocol restricted to prime modulus. Our techniques can also be applied to vectorial variants of the subset sum problem and in particular the inhomogeneous short integer solution (ISIS) problem for which they provide competitive alternatives to state-of-the-art protocols. We also show the application of our protocol to build efficient zero-knowledge arguments of plaintext and/or key knowledge in the context of fully-homomorphic encryption. When applied to the TFHE scheme, the obtained arguments are more than 20 times smaller than those obtained with previous protocols.",
+      "date": "2022",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2022/223",
+      "accessDate": "2022-10-03T14:39:22Z",
+      "extra": "Report Number: 223",
+      "creators": [
+        {
+          "firstName": "Thibauld Feneuil, Jules Maire, Matthieu",
+          "lastName": "Rivain",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Damien",
+          "lastName": "Vergnaud",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "post-quantum cryptography",
+          "type": 1
+        },
+        {
+          "tag": "subset sum",
+          "type": 1
+        },
+        {
+          "tag": "zero-knowledge",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-03T14:39:22Z",
+      "dateModified": "2022-10-03T14:39:22Z",
+      "uri": "http://zotero.org/users/9781610/items/D7EBR2HH",
+      "itemID": 115,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-03T14:39:24Z",
+          "dateModified": "2022-10-03T14:39:24Z",
+          "uri": "http://zotero.org/users/9781610/items/PKXYG7GW",
+          "path": "D:\\Zotero\\data_download\\storage\\PKXYG7GW\\Rivain \u548c Vergnaud - 2022 - Zero-Knowledge Protocols for the Subset Sum Proble.pdf",
+          "select": "zotero://select/library/items/PKXYG7GW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "rivainZeroKnowledgeProtocolsSubset2022",
+      "itemKey": "D7EBR2HH",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/D7EBR2HH"
+    },
+    {
+      "key": "QZID9KPT",
+      "version": 951,
+      "itemType": "preprint",
+      "title": "Three Halves Make a Whole? Beating the Half-Gates Lower Bound for Garbled Circuits",
+      "abstractNote": "We describe a garbling scheme for boolean circuits, in which XOR gates are free and AND gates require communication ofbits. This improves over the state-of-the-art \"half-gates\" scheme of Zahur, Rosulek, and Evans (Eurocrypt 2015), in which XOR gates are free and AND gates costbits. The half-gates paper proved a lower bound ofbits per AND gate, in a model that captured all known garbling techniques at the time. We bypass this lower bound with a novel technique that we call slicing and dicing, which involves slicing wire labels in half and operating separately on those halves. Ours is the first to bypass the lower bound while being fully compatible with free-XOR, making it a drop-in replacement for half-gates. Our construction is proven secure from a similar assumption to prior free-XOR garbling (circular correlation-robust hash), and uses only slightly more computation than half-gates.",
+      "date": "2021",
+      "shortTitle": "Three Halves Make a Whole?",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2021/749",
+      "accessDate": "2022-10-18T13:53:11Z",
+      "extra": "Report Number: 749",
+      "creators": [
+        {
+          "firstName": "Mike",
+          "lastName": "Rosulek",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lawrence",
+          "lastName": "Roy",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "garbled circuits",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-18T13:53:11Z",
+      "dateModified": "2022-10-18T13:53:14Z",
+      "uri": "http://zotero.org/users/9781610/items/QZID9KPT",
+      "itemID": 159,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-18T13:53:16Z",
+          "dateModified": "2022-10-18T13:53:16Z",
+          "uri": "http://zotero.org/users/9781610/items/KWTHV2XG",
+          "path": "D:\\Zotero\\data_download\\storage\\KWTHV2XG\\Rosulek \u548c Roy - 2021 - Three Halves Make a Whole Beating the Half-Gates .pdf",
+          "select": "zotero://select/library/items/KWTHV2XG"
+        }
+      ],
+      "notes": [],
+      "citationKey": "rosulekThreeHalvesMake2021",
+      "itemKey": "QZID9KPT",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/QZID9KPT"
+    },
+    {
+      "key": "HMVJPMK3",
+      "version": 926,
+      "itemType": "preprint",
+      "title": "Two Halves Make a Whole: Reducing Data Transfer in Garbled Circuits using Half Gates",
+      "abstractNote": "The well-known classical constructions of garbled circuits use four ciphertexts per gate, although various methods have been proposed to reduce this cost. The best previously known methods for optimizing AND gates (two ciphertexts; Pinkas et al., ASIACRYPT 2009) and XOR gates (zero ciphertexts; Kolesnikov & Schneider, ICALP 2008) were incompatible, so most implementations used the best known method compatible with free-XOR gates (three ciphertexts; Kolesnikov & Schneider, ICALP 2008). In this work we show how to simultaneously garble AND gates using two ciphertexts and XOR gates using zero ciphertexts, resulting in smaller garbled circuits than any prior scheme. The main idea behind our construction is to break an AND gate into two half-gates --- AND gates for which one party knows one input. Each half-gate can be garbled with a single ciphertext, so our construction uses two ciphertexts for each AND gate while being compatible with free-XOR gates. The price for the reduction in size is that the evaluator must perform two cryptographic operations per AND gate, rather than one as in previous schemes. We experimentally demonstrate that our garbling scheme leads to an overall decrease in time (up to 25%), bandwidth (up to 33%), and energy use (up to 20%) over several benchmark applications. We also initiate a study of lower bounds for garbled gate size, and show that our construction is optimal for a large class of garbling schemes encompassing all known practical garbling techniques.",
+      "date": "2014",
+      "shortTitle": "Two Halves Make a Whole",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2014/756",
+      "accessDate": "2022-10-17T11:23:34Z",
+      "extra": "Report Number: 756",
+      "creators": [
+        {
+          "firstName": "Samee Zahur, Mike",
+          "lastName": "Rosulek",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David",
+          "lastName": "Evans",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-17T11:23:34Z",
+      "dateModified": "2022-10-17T11:23:34Z",
+      "uri": "http://zotero.org/users/9781610/items/HMVJPMK3",
+      "itemID": 145,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-17T11:23:36Z",
+          "dateModified": "2022-10-17T11:23:36Z",
+          "uri": "http://zotero.org/users/9781610/items/WACDTXDA",
+          "path": "D:\\Zotero\\data_download\\storage\\WACDTXDA\\Rosulek \u548c Evans - 2014 - Two Halves Make a Whole Reducing Data Transfer in.pdf",
+          "select": "zotero://select/library/items/WACDTXDA"
+        }
+      ],
+      "notes": [],
+      "citationKey": "rosulekTwoHalvesMake2014",
+      "itemKey": "HMVJPMK3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HMVJPMK3"
+    },
+    {
+      "key": "GJTLVDVP",
+      "version": 974,
+      "itemType": "journalArticle",
+      "title": "INTERSUBJECTIVITY AND AUTISM SPECTRUM DISORDER BETWEEN NEUROSCIENCE AND PSYCHOANALYSIS: EMERGING PERSPECTIVES AND PEDAGOGICAL IMPLICATIONS",
+      "abstractNote": "Aim of this work is to reflect on what neurobiology, cognitive sciences and psychoanalysis have understood about intersubjectivity and the organization of the mind in autism spectrum disorder integrating principles and constructs of the different approaches in order to outline new perspectives for intervention also in the educational field. Autism spectrum disorders, like all complex phenomena, in fact, require multiple points of view that reflect the variety and unpredictability of evolutionary dynamics and outcomes (Contini, 2012; Canevaro, 2013). The study of these disorders\u00a0 in an integrated perspective also favors not only the knowledge of atypical mental functioning but also, as Kandel (2018) points out, the understanding of normal mental processes and this has a great impact on educational practices. The study of intersubjectivity today represents a common basis for a constructive dialogue between neuroscience and psychoanalysis, providing large sharing areas for the study of interpersonal relationships and the implementation of interventions aimed at developing affective, communicative and emotional potential.",
+      "date": "2022-05-31",
+      "language": "it",
+      "shortTitle": "INTERSUBJECTIVITY AND AUTISM SPECTRUM DISORDER BETWEEN NEUROSCIENCE AND PSYCHOANALYSIS",
+      "libraryCatalog": "ojs.gsdjournal.it",
+      "url": "https://ojs.gsdjournal.it/index.php/gsdj/article/view/580",
+      "accessDate": "2022-10-19T02:55:36Z",
+      "rights": "Copyright (c) 2022 Giornale Italiano di Educazione alla Salute, Sport e Didattica Inclusiva",
+      "extra": "Number: 1",
+      "volume": "6",
+      "publicationTitle": "Giornale Italiano di Educazione alla Salute, Sport e Didattica Inclusiva",
+      "DOI": "10.32043/gsd.v6i1.580",
+      "issue": "1",
+      "ISSN": "2532-3296",
+      "creators": [
+        {
+          "firstName": "Eugenia",
+          "lastName": "Treglia",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Rosella",
+          "lastName": "Tomassoni",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Monica Alina",
+          "lastName": "Lungu",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "autism",
+          "type": 1
+        },
+        {
+          "tag": "neuroscience",
+          "type": 1
+        },
+        {
+          "tag": "Pedagogy",
+          "type": 1
+        },
+        {
+          "tag": "Psychanalysisi",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-19T02:55:36Z",
+      "dateModified": "2022-10-19T02:55:36Z",
+      "uri": "http://zotero.org/users/9781610/items/GJTLVDVP",
+      "itemID": 161,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "tregliaINTERSUBJECTIVITYAUTISMSPECTRUM2022",
+      "itemKey": "GJTLVDVP",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/GJTLVDVP"
+    },
+    {
+      "key": "TBDQXBWE",
+      "version": 826,
+      "itemType": "preprint",
+      "title": "Witness Encryption and Null-IO from Evasive LWE",
+      "abstractNote": "Witness encryption (WE) allows us to use an arbitrary NP statementas a public key to encrypt a message, and the witnessserves as a decryption key. Security ensures that, when the statementis false, the encrypted message remains computationally hidden. WE appears to be significantly weaker than indistinguishability obfuscation (iO). Indeed, WE is closely related to a highly restricted form of iO that only guarantees security for null circuits (null iO). However, all current approaches towards constructing WE under nice assumptions go through iO. Such constructions are quite complex and are unlikely to lead to practically instantiable schemes. In this work, we revisit a very simple WE and null iO candidate of Chen, Vaikuntanathan and Wee (CRYPTO 2018). We show how to prove its security under a nice and easy-to-state assumption that we refer to as \"evasive LWE\" following Wee (EUROCRYPT 2022). Roughly speaking, the evasive LWE assumption says the following: assume we have some joint distributions over matrices,and auxiliary informationsuch that\n\nfor a uniformly random (and secret) matrix, whereare uniformly random matrices, andare chosen from the LWE error distribution with appropriate parameters. Then it must also be the case that:\n\nEssentially the above says that given, getting the additional componentis no more useful than just getting the product.",
+      "date": "2022",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2022/1140",
+      "accessDate": "2022-10-02T16:22:20Z",
+      "extra": "Report Number: 1140",
+      "creators": [
+        {
+          "firstName": "Vinod",
+          "lastName": "Vaikuntanathan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hoeteck",
+          "lastName": "Wee",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Daniel",
+          "lastName": "Wichs",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-02T16:22:20Z",
+      "dateModified": "2022-10-02T16:22:20Z",
+      "uri": "http://zotero.org/users/9781610/items/TBDQXBWE",
+      "itemID": 109,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T16:22:22Z",
+          "dateModified": "2022-10-02T16:22:22Z",
+          "uri": "http://zotero.org/users/9781610/items/CC6XBB87",
+          "path": "D:\\Zotero\\data_download\\storage\\CC6XBB87\\Vaikuntanathan \u7b49\u3002 - 2022 - Witness Encryption and Null-IO from Evasive LWE.pdf",
+          "select": "zotero://select/library/items/CC6XBB87"
+        }
+      ],
+      "notes": [],
+      "citationKey": "vaikuntanathanWitnessEncryptionNullIO2022",
+      "itemKey": "TBDQXBWE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TBDQXBWE"
+    },
+    {
+      "key": "2FZVEU47",
+      "version": 985,
+      "itemType": "preprint",
+      "title": "Watermarking PRFs from Lattices: Public Extract and Collusion Resistant",
+      "abstractNote": "A software watermarking scheme enables one to embed a ``mark \" (i.e., a message) into a program without significantly changing the functionality. Moreover, any removal of the watermark from a marked program is futile without significantly changing the functionality of the program. At present, the construction of software watermarking mainly focuses on watermarking pseudorandom functions (PRFs), watermarking public key encryption, watermarking signature, etc. In this work, we construct new watermarking PRFs from lattices which provide collusion resistant and public extraction. Our schemes are the first to simultaneously achieve all of these properties. The key to the success of our new constructions lies in two parts. First, we relax the notion of functionality-preserving. In general, we require that a marked program (approximately) preserve the input/output behavior of the original program. For our scheme, the output circuit is divided into two parts, one for PRF output and the other for auxiliary functions. As a result, we only require the PRF output circuit to satisfy functionality-preserving. Second, the marking method we use is essentially different form the previous scheme. In general, the mark program will change the output of some special point. The extraction algorithm determines whether the circuit is marked by determining whether the output of some special points has been changed. In our schemes, we use the constrained signature to mark a PRF circuit.",
+      "date": "2021",
+      "shortTitle": "Watermarking PRFs from Lattices",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2021/441",
+      "accessDate": "2022-10-19T16:47:17Z",
+      "extra": "Report Number: 441",
+      "creators": [
+        {
+          "firstName": "Yukun",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Mingqiang",
+          "lastName": "Wang",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Constrained Signature",
+          "type": 1
+        },
+        {
+          "tag": "Watermarking PRF",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-19T16:47:17Z",
+      "dateModified": "2022-10-19T16:47:22Z",
+      "uri": "http://zotero.org/users/9781610/items/2FZVEU47",
+      "itemID": 162,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-19T16:47:21Z",
+          "dateModified": "2022-10-19T16:47:21Z",
+          "uri": "http://zotero.org/users/9781610/items/A9PEQTEL",
+          "path": "D:\\Zotero\\data_download\\storage\\A9PEQTEL\\Wang \u548c Wang - 2021 - Watermarking PRFs from Lattices Public Extract an.pdf",
+          "select": "zotero://select/library/items/A9PEQTEL"
+        }
+      ],
+      "notes": [],
+      "citationKey": "wangWatermarkingPRFsLattices2021",
+      "itemKey": "2FZVEU47",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2FZVEU47"
+    },
+    {
+      "key": "FLE6WTQ2",
+      "version": 990,
+      "itemType": "preprint",
+      "title": "Watermarking Public-Key Cryptographic Primitives",
+      "abstractNote": "A software watermarking scheme enables users to embed a message or mark within a program while preserving its functionality. Moreover, it is difficult for an adversary to remove a watermark from a marked program without corrupting its behavior. Existing constructions of software watermarking from standard assumptions have focused exclusively on watermarking pseudorandom functions (PRFs). In this work, we study watermarking public-key primitives such as the signing key of a digital signature scheme or the decryption key of a public-key (predicate) encryption scheme. While watermarking public-key primitives might seem more challenging than watermarking PRFs, we show how to construct watermarkable variants of these notions while only relying on standard, and oftentimes, minimal, assumptions. Our watermarkable signature scheme relies only on the minimal assumption that one-way functions exist and satisfies ideal properties such as public marking, public mark-extraction, and full collusion resistance. Our watermarkable public-key encryption schemes are built using techniques developed for the closely-related problem of traitor tracing. Notably, we obtain fully collusion resistant watermarkable attribute-based encryption in the private-key setting from the standard learning with errors assumption and a bounded collusion resistant watermarkable predicate encryption scheme with public mark-extraction and public marking from the minimal assumption that public-key encryption exists.",
+      "date": "2019",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2019/628",
+      "accessDate": "2022-10-19T16:52:16Z",
+      "extra": "Report Number: 628",
+      "creators": [
+        {
+          "firstName": "Rishab Goyal, Sam Kim, Nathan Manohar, Brent",
+          "lastName": "Waters",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David J.",
+          "lastName": "Wu",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "watermarking",
+          "type": 1
+        },
+        {
+          "tag": "public-key primitives",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-19T16:52:16Z",
+      "dateModified": "2022-10-19T16:52:16Z",
+      "uri": "http://zotero.org/users/9781610/items/FLE6WTQ2",
+      "itemID": 166,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-19T16:52:18Z",
+          "dateModified": "2022-10-19T16:52:18Z",
+          "uri": "http://zotero.org/users/9781610/items/XAFFCKM4",
+          "path": "D:\\Zotero\\data_download\\storage\\XAFFCKM4\\Waters \u548c Wu - 2019 - Watermarking Public-Key Cryptographic Primitives.pdf",
+          "select": "zotero://select/library/items/XAFFCKM4"
+        }
+      ],
+      "notes": [],
+      "citationKey": "watersWatermarkingPublicKeyCryptographic2019",
+      "itemKey": "FLE6WTQ2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FLE6WTQ2"
+    },
+    {
+      "key": "P5KJW48V",
+      "version": 1235,
+      "itemType": "journalArticle",
+      "title": "\u6570\u5b57\u6307\u7eb9\u7f16\u7801\u53ca\u5176\u6297\u5408\u8c0b\u653b\u51fb\u65b9\u6848",
+      "abstractNote": "\u968f\u7740\u6570\u5b57\u4ea7\u54c1\u7684\u63a8\u5e7f,\u9488\u5bf9\u6570\u5b57\u4ea7\u54c1\u7684\u7248\u6743\u4fdd\u62a4\u5f97\u4ee5\u53d7\u5230\u91cd\u89c6\u3002\u6570\u5b57\u6307\u7eb9\u6280\u672f\u662f\u5728\u6570\u5b57\u6c34\u5370\u7684\u57fa\u7840\u4e0a\u53d1\u5c55\u8d77\u6765\u7684\u3002\u5176\u4e3b\u8981\u76ee\u7684\u662f,\u901a\u8fc7\u5728\u6570\u5b57\u4ea7\u54c1\u4e2d\u5d4c\u5165\u5176\u72ec\u6709\u7684\u8eab\u4efd\u4fe1\u606f,\u5728\u4ee5\u540e\u7684\u8ffd\u67e5\u76d7\u7248\u8fc7\u7a0b\u4e2d,\u80fd\u591f\u67e5\u83b7\u76d7\u7248\u7684\u6765\u6e90\u3002\u4ee5\u5f80\u6240\u91c7\u7528\u7684\u6307\u7eb9\u7f16\u7801\u65b9\u6cd5\u90fd\u662f\u91c7\u7528\u6570\u5b66\u7406\u8bba\u7684\u601d\u8def\u6765\u8fdb\u884c,\u800c\u73b0\u5728\u91c7\u7528\u4e00\u79cd\u65b0\u7684\u601d\u8def\u6765\u89e3\u51b3\u6570\u5b57\u6307\u7eb9\u7684\u6297\u5408\u8c0b\u7f16\u7801,\u5373\u91c7\u7528\u7801\u5206\u591a\u5740\u6280\u672f\u4e2d\u6d88\u9664\u591a\u7528\u6237\u63a5\u5165\u4e4b\u95f4\u7684\u5e72\u6270,\u8fd9\u79cd\u5e72\u6270\u7684\u6765\u6e90\u4e4b\u4e00\u662f\u4e00\u79cd\u6570\u5b57\u6307\u7eb9\u7684\u5408\u8c0b\u653b\u51fb,\u6d88\u9664\u8fd9\u79cd\u5e72\u6270\u5c31\u53ef\u4ee5\u6d88\u9664\u6b64\u7c7b\u5408\u8c0b\u653b\u51fb\u3002\u540c\u65f6\u7ed9\u51fa\u4e86\u6570\u5b57\u6307\u7eb9\u7684\u6297\u5408\u8c0b\u653b\u51fb\u7f16\u7801\u6846\u67b6\u53ca\u5177\u4f53\u7684\u5b9e\u65bd\u6b65\u9aa4,\u5e76\u8fdb\u884c\u4e86\u6df1\u5165\u7684\u7406\u8bba\u5206\u6790\u3002",
+      "date": "2011",
+      "language": "zh_CN",
+      "libraryCatalog": "CNKI",
+      "url": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2011&filename=TXJS201110030&uniplatform=NZKPT&v=c1kMc-ocei-izKC0U1wnyEJseKsd5Zr0TJ_k0wKmitBARmqC22OkkDEfrPLbXFXU",
+      "accessDate": "2022-10-25T06:00:37Z",
+      "volume": "44",
+      "pages": "77-79",
+      "publicationTitle": "\u901a\u4fe1\u6280\u672f",
+      "issue": "10",
+      "ISSN": "1002-0802",
+      "creators": [
+        {
+          "firstName": "\u742a",
+          "lastName": "\u5434",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "\u4e16\u5e73",
+          "lastName": "\u6768",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "\u5408\u8c0b\u653b\u51fb",
+          "type": 1
+        },
+        {
+          "tag": "\u6570\u5b57\u6307\u7eb9\u7f16\u7801",
+          "type": 1
+        },
+        {
+          "tag": "\u6c34\u5370\u7684\u5d4c\u5165\u53ca\u68c0\u6d4b",
+          "type": 1
+        },
+        {
+          "tag": "collusion attack",
+          "type": 1
+        },
+        {
+          "tag": "digital fingerprint",
+          "type": 1
+        },
+        {
+          "tag": "embedment and extraction of watermarking",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-25T06:00:37Z",
+      "dateModified": "2022-10-25T06:00:37Z",
+      "uri": "http://zotero.org/users/9781610/items/P5KJW48V",
+      "itemID": 247,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-25T06:00:39Z",
+          "dateModified": "2022-10-25T06:00:39Z",
+          "uri": "http://zotero.org/users/9781610/items/HVX59YFE",
+          "path": "D:\\Zotero\\data_download\\storage\\HVX59YFE\\\u5434 \u548c \u6768 - 2011 - \u6570\u5b57\u6307\u7eb9\u7f16\u7801\u53ca\u5176\u6297\u5408\u8c0b\u653b\u51fb\u65b9\u6848.pdf",
+          "select": "zotero://select/library/items/HVX59YFE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "wuShuZiZhiWenBianMaJiQiKangHeMouGongJiFangAn2011",
+      "itemKey": "P5KJW48V",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/P5KJW48V"
+    },
+    {
+      "key": "B9BZB6JM",
+      "version": 1011,
+      "itemType": "preprint",
+      "title": "Collusion Resistant Watermarking Schemes for Cryptographic Functionalities",
+      "abstractNote": "A cryptographic watermarking scheme embeds a message into a program while preserving its functionality. Recently, a number of watermarking schemes have been proposed, which are proven secure in the sense that given one marked program, any attempt to remove the embedded message will substantially change its functionality. In this paper, we formally initiate the study of collusion attacks for watermarking schemes, where the attacker\u2019s goal is to remove the embedded messages given multiple copies of the same program, each with a different embedded message. This is motivated by practical scenarios, where a program may be marked multiple times with different messages. The results of this work are twofold. First, we examine existing cryptographic watermarking schemes and observe that all of them are vulnerable to collusion attacks. Second, we construct collusion resistant watermarking schemes for various cryptographic functionalities (e.g., pseudorandom function evaluation, decryption, etc.). To achieve our second result, we present a new primitive called puncturable functional encryption scheme, which may be of independent interest.",
+      "date": "2017",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2017/1201",
+      "accessDate": "2022-10-20T01:58:16Z",
+      "extra": "Report Number: 1201",
+      "creators": [
+        {
+          "firstName": "Rupeng Yang, Man Ho Au, Junzuo Lai, Qiuliang",
+          "lastName": "Xu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zuoxia",
+          "lastName": "Yu",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Collusion Resistance",
+          "type": 1
+        },
+        {
+          "tag": "Watermarkable PRF",
+          "type": 1
+        },
+        {
+          "tag": "Watermarking",
+          "type": 1
+        },
+        {
+          "tag": "Public Extraction",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-20T01:58:16Z",
+      "dateModified": "2022-10-20T01:58:16Z",
+      "uri": "http://zotero.org/users/9781610/items/B9BZB6JM",
+      "itemID": 176,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-20T01:58:19Z",
+          "dateModified": "2022-10-20T01:58:19Z",
+          "uri": "http://zotero.org/users/9781610/items/2XRBLJIJ",
+          "path": "D:\\Zotero\\data_download\\storage\\2XRBLJIJ\\Xu \u548c Yu - 2017 - Collusion Resistant Watermarking Schemes for Crypt.pdf",
+          "select": "zotero://select/library/items/2XRBLJIJ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "xuCollusionResistantWatermarking2017",
+      "itemKey": "B9BZB6JM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/B9BZB6JM"
+    },
+    {
+      "key": "ZZZRTRXL",
+      "version": 1001,
+      "itemType": "preprint",
+      "title": "Public-Key Watermarking Schemes for Pseudorandom Functions",
+      "abstractNote": "A software watermarking scheme can embed a message into a program while preserving its functionality. The embedded message can be extracted later by an extraction algorithm, and no one could remove it without significantly changing the functionality of the program. A watermarking scheme is public key if neither the marking procedure nor the extraction procedure needs a watermarking secret key. Prior constructions of watermarking schemes mainly focus on watermarking pseudorandom functions (PRFs), and the major open problem in this direction is to construct a public-key watermarkable PRF. In this work, we solve the open problem via constructing public-key watermarkable PRFs with different trade-o\ufb00s from various assumptions, ranging from standard lattice assumptions to the existence of indistinguishability obfuscation. To achieve the results, we first construct watermarking schemes in a weaker model, where the extraction algorithm is provided with a \u201chint\u201d about the watermarked PRF key. Then we upgrade the constructions to standard watermarking schemes using a robust unobfuscatable PRF. We also provide the first construction of robust unobfuscatable PRF in this work, which is of independent interest.",
+      "date": "2022",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2022/768",
+      "accessDate": "2022-10-20T01:56:38Z",
+      "extra": "Report Number: 768",
+      "creators": [
+        {
+          "firstName": "Rupeng",
+          "lastName": "Yang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zuoxia",
+          "lastName": "Yu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Man Ho",
+          "lastName": "Au",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Willy",
+          "lastName": "Susilo",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-20T01:56:38Z",
+      "dateModified": "2022-10-20T01:56:38Z",
+      "uri": "http://zotero.org/users/9781610/items/ZZZRTRXL",
+      "itemID": 170,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-20T01:56:41Z",
+          "dateModified": "2022-10-20T01:56:41Z",
+          "uri": "http://zotero.org/users/9781610/items/NV35CESE",
+          "path": "D:\\Zotero\\data_download\\storage\\NV35CESE\\Yang \u7b49\u3002 - 2022 - Public-Key Watermarking Schemes for Pseudorandom F.pdf",
+          "select": "zotero://select/library/items/NV35CESE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "yangPublicKeyWatermarkingSchemes2022",
+      "itemKey": "ZZZRTRXL",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZZZRTRXL"
+    },
+    {
+      "key": "AS7F3QBI",
+      "version": 1243,
+      "itemType": "journalArticle",
+      "title": "\u4e00\u79cd\u6297\u5408\u8c0b\u7684\u6570\u5b57\u6307\u7eb9\u7f16\u7801\u65b9\u6848",
+      "abstractNote": "\u4ecb\u7ecd\u4e86\u6570\u5b57\u6307\u7eb9\u6280\u672f\u7684\u57fa\u672c\u539f\u7406\u3001\u5de5\u4f5c\u65b9\u5f0f ,\u4ee5\u53ca\u5176\u62b5\u6297\u5408\u8c0b\u653b\u51fb\u7279\u6027 .\u5728\u6b64\u57fa\u7840\u4e0a ,\u63d0\u51fa\u4e86\u4e00\u79cd\u65b0\u7684\u57fa\u4e8e\u6b63\u4ea4\u7801\u548c BIBD\u7801\u7684\u6df7\u5408\u7f16\u7801\u65b9\u6848 .\u76f8\u5bf9\u4e8e\u4f20\u7edf\u7684\u7f16\u7801\u65b9\u6848 ,\u8be5\u65b9\u6848\u6307\u7eb9\u751f\u6210\u5bb9\u6613 ,\u80fd\u591f\u5728\u5f88\u5927\u7a0b\u5ea6\u4e0a\u7f29\u77ed\u7801\u5b57\u957f\u5ea6 ,\u5e76\u4e14\u80fd\u591f\u62b5\u6297\u591a\u79cd\u5e38\u89c1\u7684\u5408\u8c0b\u653b\u51fb ,\u6709\u6548\u5730\u8ddf\u8e2a\u5230\u5408\u8c0b\u7528\u6237",
+      "date": "2004",
+      "language": "zh_CN",
+      "libraryCatalog": "CNKI",
+      "url": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2004&filename=JTKJ200402024&uniplatform=NZKPT&v=Ek8wWP3uJYZ4ZCYJwW-Nfs7mZBarSw-XvJvxDAVGFx2P0maq71ge8akohsUMPAfp",
+      "accessDate": "2022-10-25T06:05:22Z",
+      "extra": "<EI>",
+      "pages": "244-247",
+      "publicationTitle": "\u6b66\u6c49\u7406\u5de5\u5927\u5b66\u5b66\u62a5(\u4ea4\u901a\u79d1\u5b66\u4e0e\u5de5\u7a0b\u7248)",
+      "issue": "2",
+      "ISSN": "1006-2823",
+      "creators": [
+        {
+          "firstName": "\u6770",
+          "lastName": "\u6768",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "\u7487",
+          "lastName": "\u4e07",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "\u5408\u8c0b\u653b\u51fb",
+          "type": 1
+        },
+        {
+          "tag": "digital fingerprint",
+          "type": 1
+        },
+        {
+          "tag": "\u7248\u6743\u4fdd\u62a4",
+          "type": 1
+        },
+        {
+          "tag": "\u533a\u7ec4\u8bbe\u8ba1",
+          "type": 1
+        },
+        {
+          "tag": "\u6570\u5b57\u6307\u7eb9",
+          "type": 1
+        },
+        {
+          "tag": "block design",
+          "type": 1
+        },
+        {
+          "tag": "collusion",
+          "type": 1
+        },
+        {
+          "tag": "copyright protection",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-25T06:05:22Z",
+      "dateModified": "2022-10-25T06:05:22Z",
+      "uri": "http://zotero.org/users/9781610/items/AS7F3QBI",
+      "itemID": 249,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-25T06:05:24Z",
+          "dateModified": "2022-10-25T06:05:24Z",
+          "uri": "http://zotero.org/users/9781610/items/MCIN3EU6",
+          "path": "D:\\Zotero\\data_download\\storage\\MCIN3EU6\\\u6768 \u548c \u4e07 - 2004 - \u4e00\u79cd\u6297\u5408\u8c0b\u7684\u6570\u5b57\u6307\u7eb9\u7f16\u7801\u65b9\u6848.pdf",
+          "select": "zotero://select/library/items/MCIN3EU6"
+        }
+      ],
+      "notes": [],
+      "citationKey": "yangYiZhongKangHeMouDeShuZiZhiWenBianMaFangAn2004",
+      "itemKey": "AS7F3QBI",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/AS7F3QBI"
+    },
+    {
+      "key": "9X6IXN57",
+      "version": 1004,
+      "itemType": "preprint",
+      "title": "Collusion Resistant Watermarkable PRFs from Standard Assumptions",
+      "abstractNote": "A software watermarking scheme can embed a message into a program without significantly changing its functionality. Moreover, any attempt to remove the embedded message in a marked program will substantially change the functionality of the program. Prior constructions of watermarking schemes focus on watermarking cryptographic functions, such as pseudorandom function (PRF), public key encryption, etc. A natural security requirement for watermarking schemes is collusion resistance, where the adversary\u2019s goal is to remove the embedded messages given multiple marked versions of the same program. Currently, this strong security guarantee has been achieved by watermarking schemes for public key cryptographic primitives from standard assumptions (Goyal et al., CRYPTO 2019) and by watermarking schemes for PRFs from indistinguishability obfuscation (Yang et al., ASIACRYPT 2019). However, no collusion resistant watermarking scheme for PRF from standard assumption is known. In this work, we solve this problem by presenting a generic construction that upgrades a watermarkable PRF without collusion resistance to a collusion resistant one. One appealing feature of our construction is that it can preserve the security properties of the original scheme. For example, if the original scheme has security with extraction queries, the new scheme is also secure with extraction queries. Besides, the new scheme can achieve unforgeability even if the original scheme does not provide this security property. Instantiating our construction with existing watermarking schemes for PRF, we obtain collusion resistant watermarkable PRFs from standard assumptions, offering various security properties.",
+      "date": "2020",
+      "libraryCatalog": "ePrint IACR",
+      "url": "https://eprint.iacr.org/2020/695",
+      "accessDate": "2022-10-20T01:57:05Z",
+      "extra": "Report Number: 695",
+      "creators": [
+        {
+          "firstName": "Rupeng Yang, Man Ho Au, Zuoxia",
+          "lastName": "Yu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Qiuliang",
+          "lastName": "Xu",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Collusion Resistance",
+          "type": 1
+        },
+        {
+          "tag": "lattice",
+          "type": 1
+        },
+        {
+          "tag": "Watermarkable PRF",
+          "type": 1
+        },
+        {
+          "tag": "Watermarking",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-20T01:57:05Z",
+      "dateModified": "2022-10-20T01:57:05Z",
+      "uri": "http://zotero.org/users/9781610/items/9X6IXN57",
+      "itemID": 172,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-20T01:57:07Z",
+          "dateModified": "2022-10-20T01:57:07Z",
+          "uri": "http://zotero.org/users/9781610/items/54PZI9RN",
+          "path": "D:\\Zotero\\data_download\\storage\\54PZI9RN\\Yu \u548c Xu - 2020 - Collusion Resistant Watermarkable PRFs from Standa.pdf",
+          "select": "zotero://select/library/items/54PZI9RN"
+        }
+      ],
+      "notes": [
+        {
+          "key": "94RWGDZK",
+          "version": 1290,
+          "itemType": "note",
+          "parentItem": "9X6IXN57",
+          "note": "<div data-citation-items=\"%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%2C%22type%22%3A%22article%22%2C%22abstract%22%3A%22A%20software%20watermarking%20scheme%20can%20embed%20a%20message%20into%20a%20program%20without%20significantly%20changing%20its%20functionality.%20Moreover%2C%20any%20attempt%20to%20remove%20the%20embedded%20message%20in%20a%20marked%20program%20will%20substantially%20change%20the%20functionality%20of%20the%20program.%20Prior%20constructions%20of%20watermarking%20schemes%20focus%20on%20watermarking%20cryptographic%20functions%2C%20such%20as%20pseudorandom%20function%20(PRF)%2C%20public%20key%20encryption%2C%20etc.%20A%20natural%20security%20requirement%20for%20watermarking%20schemes%20is%20collusion%20resistance%2C%20where%20the%20adversary%E2%80%99s%20goal%20is%20to%20remove%20the%20embedded%20messages%20given%20multiple%20marked%20versions%20of%20the%20same%20program.%20Currently%2C%20this%20strong%20security%20guarantee%20has%20been%20achieved%20by%20watermarking%20schemes%20for%20public%20key%20cryptographic%20primitives%20from%20standard%20assumptions%20(Goyal%20et%20al.%2C%20CRYPTO%202019)%20and%20by%20watermarking%20schemes%20for%20PRFs%20from%20indistinguishability%20obfuscation%20(Yang%20et%20al.%2C%20ASIACRYPT%202019).%20However%2C%20no%20collusion%20resistant%20watermarking%20scheme%20for%20PRF%20from%20standard%20assumption%20is%20known.%20In%20this%20work%2C%20we%20solve%20this%20problem%20by%20presenting%20a%20generic%20construction%20that%20upgrades%20a%20watermarkable%20PRF%20without%20collusion%20resistance%20to%20a%20collusion%20resistant%20one.%20One%20appealing%20feature%20of%20our%20construction%20is%20that%20it%20can%20preserve%20the%20security%20properties%20of%20the%20original%20scheme.%20For%20example%2C%20if%20the%20original%20scheme%20has%20security%20with%20extraction%20queries%2C%20the%20new%20scheme%20is%20also%20secure%20with%20extraction%20queries.%20Besides%2C%20the%20new%20scheme%20can%20achieve%20unforgeability%20even%20if%20the%20original%20scheme%20does%20not%20provide%20this%20security%20property.%20Instantiating%20our%20construction%20with%20existing%20watermarking%20schemes%20for%20PRF%2C%20we%20obtain%20collusion%20resistant%20watermarkable%20PRFs%20from%20standard%20assumptions%2C%20offering%20various%20security%20properties.%22%2C%22note%22%3A%22Report%20Number%3A%20695%22%2C%22source%22%3A%22ePrint%20IACR%22%2C%22title%22%3A%22Collusion%20Resistant%20Watermarkable%20PRFs%20from%20Standard%20Assumptions%22%2C%22URL%22%3A%22https%3A%2F%2Feprint.iacr.org%2F2020%2F695%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Yu%22%2C%22given%22%3A%22Rupeng%20Yang%22%2C%22suffix%22%3A%22Man%20Ho%20Au%2C%20Zuoxia%22%7D%2C%7B%22family%22%3A%22Xu%22%2C%22given%22%3A%22Qiuliang%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222022%22%2C10%2C20%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222020%22%5D%5D%7D%2C%22citation-key%22%3A%22yuCollusionResistantWatermarkable2020%22%7D%7D%5D\" data-schema-version=\"8\"><h1>\u6ce8\u91ca<br/>(2022/10/27 \u4e0b\u53482:32:56)</h1>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%22APUPWVST%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B141.285%2C663.419%2C474.067%2C676.158%5D%2C%5B227.544%2C645.486%2C387.815%2C658.225%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%221%22%7D%7D\">\u201cCollusion Resistant Watermarkable PRFs from Standard Assumptions\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%221%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 1</span>)</span> \u6807\u51c6\u5047\u8bbe\u4e0b\u7684\u6297\u5171\u8c0b\u653b\u51fb\u6c34\u5370\u4f2a\u968f\u673a\u51fd\u6570</p><p><span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%221%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 1</span>)</span> \u63d0\u51fa\u4e86\u4e00\u79cd\u901a\u7528\u7684\u6784\u5efa\u65b9\u6cd5\uff0c\u53ef\u4ee5\u5c06\u4e0d\u6297\u5171\u8c0b\u653b\u51fb\u7684\u6c34\u5370PRF\u5347\u7ea7\u4e3a\u6297\u5171\u8c0b\u7684\u3002\u540c\u65f6\uff0c\u53ef\u4ee5\u5728\u4fdd\u7559\u539f\u6765\u65b9\u6848\u7684\u5b89\u5168\u6027\u8d28\u7684\u57fa\u7840\u4e0a\uff0c\u65b0\u52a0\u5165\u4e0d\u53ef\u4f2a\u9020\u7684\u6027\u8d28\u3002</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%22YHUWT3JW%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%222%22%2C%22position%22%3A%7B%22pageIndex%22%3A1%2C%22rects%22%3A%5B%5B369.229%2C519.911%2C480.595%2C530.3%5D%2C%5B134.765%2C507.956%2C335.585%2C516.803%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%222%22%7D%7D\">\u201ceither indistinguishability obfuscation or standard (lattice) assumptions\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%222%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 2</span>)</span> \u4e24\u79cd\u6784\u5efa\u65b9\u6848\uff1aIO\u548cstandard assumptions</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%229TE5FCFA%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%222%22%2C%22position%22%3A%7B%22pageIndex%22%3A1%2C%22rects%22%3A%5B%5B291.846%2C471.643%2C480.591%2C482.031%5D%2C%5B134.765%2C459.688%2C298.423%2C468.535%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%222%22%7D%7D\">\u201cconstruct watermarking schemes for public key encryption (PKE) and signature\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%222%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 2</span>)</span> \u516c\u94a5\u52a0\u5bc6\u65b9\u6848\u548c\u6570\u5b57\u7b7e\u540d</p><p><img data-attachment-key=\"VZGIHTYX\" width=\"606\" height=\"152\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%22XL93YNQP%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%222%22%2C%22position%22%3A%7B%22pageIndex%22%3A1%2C%22rects%22%3A%5B%5B126.47699999999999%2C236.3181818181818%2C490.2269999999999%2C327.682%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%222%22%7D%7D\"/><br/><span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%222%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 2</span>)</span> \u6807\u8bb0\u7b97\u6cd5\uff1a\u8f93\u5165message\u548ckey k\uff0c\u8f93\u51fa\u6c34\u5370\u7535\u8def\uff0c\u6c34\u5370\u7535\u8def\u53ef\u4ee5\u8bc4\u4f30Fk(\u00b7)<br>\u63d0\u53d6\u7b97\u6cd5\uff1a\u8f93\u5165\u63d0\u53d6\u5bc6\u94a5\u548c\u7535\u8def\uff0c\u8f93\u51famessage\u6216\u8bb0\u53f7\u22a5</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%2286G3WKSL%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%222%22%2C%22position%22%3A%7B%22pageIndex%22%3A1%2C%22rects%22%3A%5B%5B414.302%2C228.208%2C477.828%2C237.055%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%222%22%7D%7D\">\u201cunremovability\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%222%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 2</span>)</span> \u4e0d\u53ef\u79fb\u9664\u6027\uff1a\u654c\u4eba\u4e0d\u80fd\u5728\u4fdd\u6301\u8f93\u51fa\u4e0d\u53d8\u7684\u60c5\u51b5\u4e0b\u79fb\u9664\u6216\u4fee\u6539\u5d4c\u5165\u7684\u4fe1\u606f</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%224QMEJFF6%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%222%22%2C%22position%22%3A%7B%22pageIndex%22%3A1%2C%22rects%22%3A%5B%5B267.191%2C180.387%2C325.117%2C189.234%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%222%22%7D%7D\">\u201cunforgeability\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%222%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 2</span>)</span> \u4e0d\u53ef\u4f2a\u9020\u6027\uff1a\u6ca1\u6709mark key\u7684\u4eba\u4e0d\u80fd\u521b\u5efa\u65b0\u7684\u6c34\u5370\u7535\u8def</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%226H5QFTY6%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%223%22%2C%22position%22%3A%7B%22pageIndex%22%3A2%2C%22rects%22%3A%5B%5B287.577%2C652.314%2C480.595%2C661.161%5D%2C%5B134.765%2C640.358%2C174.101%2C649.205%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%223%22%7D%7D\">\u201cpseudorandomness against the watermarking authority\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%223%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 3</span>)</span> \u53ef\u4ee5\u62b5\u6297\u62e5\u6709mark key\u548cextraction key\u7684\u654c\u4eba\uff08\u6743\u5a01\uff09</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%22VH4NGU9E%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%223%22%2C%22position%22%3A%7B%22pageIndex%22%3A2%2C%22rects%22%3A%5B%5B254.414%2C580.583%2C334.654%2C589.43%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%223%22%7D%7D\">\u201ccollusion resistant.\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%223%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 3</span>)</span> \u5982\u679c\u654c\u624b\u88ab\u5141\u8bb8\u83b7\u5f97\u4e00\u4e2a\u4ee5\u4e0a\u7684\u6c34\u5370\u7535\u8def\uff0c\u90a3\u4e48\u8fd9\u4e2a\u65b9\u6848\u662f\u6297\u5171\u8c0b\u7684</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%225MTMDKC7%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%223%22%2C%22position%22%3A%7B%22pageIndex%22%3A2%2C%22rects%22%3A%5B%5B269.56%2C544.717%2C334.682%2C553.564%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%223%22%7D%7D\">\u201cpublic marking\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%223%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 3</span>)</span> \u654c\u624b\u53ef\u4ee5\u83b7\u5f97\u521b\u5efa\u6c34\u5370\u7535\u8def\u7684key</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%22566ERG9H%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%223%22%2C%22position%22%3A%7B%22pageIndex%22%3A2%2C%22rects%22%3A%5B%5B134.765%2C496.896%2C206.478%2C505.743%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%223%22%7D%7D\">\u201cpublic extraction\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%223%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 3</span>)</span> \u654c\u624b\u53ef\u4ee5\u83b7\u5f97\u6c34\u5370\u7535\u8def\u7684\u63d0\u53d6key</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%223M9Y2YE5%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%225%22%2C%22position%22%3A%7B%22pageIndex%22%3A4%2C%22rects%22%3A%5B%5B332.827%2C652.314%2C480.591%2C661.161%5D%2C%5B134.765%2C640.358%2C390.618%2C649.205%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%225%22%7D%7D\">\u201conly secure against an adversary that can make at most q queries to the extraction oracle\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%225%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 5</span>)</span> \u5c40\u9650\u6027</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%229EW39FDY%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%225%22%2C%22position%22%3A%7B%22pageIndex%22%3A4%2C%22rects%22%3A%5B%5B430.691%2C469.145%2C480.588%2C477.992%5D%2C%5B134.765%2C457.19%2C159.312%2C466.037%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%225%22%7D%7D\">\u201cconstrained PRFs\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%225%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 5</span>)</span> \u5bf9\u4e8ePRF\uff0c\u8f93\u5165k\u548cck\u7684\u8f93\u51fa\u53ea\u5728x*\u5904\u4e0d\u540c\uff0c\u654c\u624b\u4e0d\u80fd\u5206\u8fa8\u51fax*\u7684\u503c</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%224RRTKRU3%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%225%22%2C%22position%22%3A%7B%22pageIndex%22%3A4%2C%22rects%22%3A%5B%5B473.118%2C408.454%2C480.59%2C418.216%5D%2C%5B134.765%2C397.414%2C480.594%2C406.261%5D%2C%5B134.765%2C385.459%2C211.273%2C394.306%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%225%22%7D%7D\">\u201cA constrained PRF is constraint-hiding if the constrained key does not reveal the punctured points.\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%225%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 5</span>)</span> constraint-hiding\uff1ack\u7684\u7a7f\u523a\u70b9\u4e0d\u80fd\u88ab\u8fa8\u522b</p><p><img data-attachment-key=\"2CR56TXP\" width=\"604\" height=\"303\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%22VLMIAPK8%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%225%22%2C%22position%22%3A%7B%22pageIndex%22%3A4%2C%22rects%22%3A%5B%5B127.5%2C166.286%2C490.179%2C348.429%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%225%22%7D%7D\"/><br/><span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%225%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 5</span>)</span> \u6839\u636ek\u751f\u6210ck\u3002\u5bf9\u4e8e\u5d4c\u5165\u7684\u957f\u5ea6\u4e3al\u7684msg\uff0c\u751f\u62102l\u4e2a\u8f93\u5165\u2026\u2026</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%22BLETUCY3%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%226%22%2C%22position%22%3A%7B%22pageIndex%22%3A5%2C%22rects%22%3A%5B%5B181.823%2C652.314%2C477.821%2C661.161%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%226%22%7D%7D\">\u201cunderlying (variants of) constrained PRFs are not collusion resistant\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%226%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 6</span>)</span> \u6f5c\u5728\u7684\u53d7\u9650PRFs\u662f\u975e\u6297\u78b0\u649e\u7684\uff0c\u540c\u4e00\u4e2ak\u751f\u6210\u7684\u4e24\u4e2ack\u5c31\u80fd\u6062\u590dk</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%22UC3ULLV3%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%226%22%2C%22position%22%3A%7B%22pageIndex%22%3A5%2C%22rects%22%3A%5B%5B354.935%2C522.368%2C480.589%2C531.215%5D%2C%5B134.765%2C510.413%2C480.596%2C519.26%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%226%22%7D%7D\">\u201ckey idea is to encode bits of a message into different \u201ckeys\u201d instead of encoding them into different inputs.\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%226%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 6</span>)</span> \u6838\u5fc3\u60f3\u6cd5\u662f\u52a0\u5bc6msg\u8fdbkeys\u800c\u4e0d\u662finputs</p><p><img data-attachment-key=\"ZCBSLYG9\" width=\"600\" height=\"546\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%22R7K4KMSA%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%226%22%2C%22position%22%3A%7B%22pageIndex%22%3A5%2C%22rects%22%3A%5B%5B127.5%2C140.0357142857142%2C487.5%2C467.357%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%226%22%7D%7D\"/><br/><span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%226%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 6</span>)</span> \u5728\u7b2c\u4e00\u6b21\u5c1d\u8bd5\u4e2d\uff0c\u5728\u4e24\u4e2a\u7535\u8defC\u7684\u60c5\u51b5\u4e0b\uff0c\u4ec5\u53ef\u4ee5\u9690\u85cf\u4e00\u4e9b\u7a7f\u523a\u4f4d\u7f6e</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%22T6LKXD5K%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%227%22%2C%22position%22%3A%7B%22pageIndex%22%3A6%2C%22rects%22%3A%5B%5B421.593%2C592.967%2C480.595%2C601.814%5D%2C%5B134.765%2C581.012%2C189.1%2C589.859%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%227%22%7D%7D\">\u201cfingerprinting code scheme\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%227%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 7</span>)</span> \u6307\u7eb9\u7801\u5305\u62ec\u4e24\u4e2a\u7b97\u6cd5\uff1a\u751f\u6210\u7b97\u6cd5\u548c\u89e3\u5bc6\u7b97\u6cd5\u3002\u751f\u6210\u7b97\u6cd5\u751f\u6210\u4e00\u4e2a\u7801\u4e66\u548c\u9677\u95e8\uff0c\u5bc6\u7801\u672c\u7ed9\u6bcf\u4e2amsg\u5206\u914d\u4e00\u4e2a\u552f\u4e00\u7684\u5bc6\u6587\uff0c\u9677\u95e8\u51fd\u6570\u53ef\u4ee5\u89e3\u5bc6\u5bc6\u6587\u3002</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%227XC93QQQ%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%227%22%2C%22position%22%3A%7B%22pageIndex%22%3A6%2C%22rects%22%3A%5B%5B139.746%2C497.326%2C228.152%2C506.173%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%227%22%7D%7D\">\u201cmarking assumption\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%227%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 7</span>)</span> \u5d4c\u5165\u5047\u8bbe\uff1a\u654c\u624b\u4e0d\u80fd\u7be1\u6539\u4e0d\u53ef\u89c1\u4f4d\uff08\u5bc6\u6587\u76f8\u540c\u7684\u6bd4\u7279\u4f4d\u7f6e\uff09</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%22BJEN6UBE%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%228%22%2C%22position%22%3A%7B%22pageIndex%22%3A7%2C%22rects%22%3A%5B%5B134.765%2C392.291%2C402.87%2C401.138%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%228%22%7D%7D\">\u201cthe extraction algorithm of our scheme consists of three steps\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%228%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 8</span>)</span> 1.\u63d0\u53d6\u51fa\u4e00\u4e2aword\u548c\u4e00\u6bb5\u5bc6\u6587<br>2.\u89e3\u5bc6\u8fd9\u4e2a\u5bc6\u6587\u5f97\u5230\u4e00\u4e2a\u9677\u95e8<br>3.\u7528\u9677\u95e8\u628aword\u6062\u590d\u6210msg</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F54PZI9RN%22%2C%22annotationKey%22%3A%22F546ZKMX%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%2212%22%2C%22position%22%3A%7B%22pageIndex%22%3A11%2C%22rects%22%3A%5B%5B253.621%2C664.269%2C480.591%2C673.116%5D%2C%5B134.765%2C652.314%2C471.976%2C661.161%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%2212%22%7D%7D\">\u201c1) make queries to an extraction oracle that outputs the decoding of a given word and 2) make challenge oracle queries adaptively\u201d</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9781610%2Fitems%2F9X6IXN57%22%5D%2C%22locator%22%3A%2212%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Yu \u548c Xu, 2020, p. 12</span>)</span> \u66f4\u5f3a\u7684\u5b89\u5168\u6027\uff1a<br>1\uff09\u53ef\u4ee5\u5bf9\u63d0\u53d6\u9884\u8a00\u673a\u53d1\u8d77\u67e5\u8be2\uff08\u8f93\u51fa\u89e3\u5bc6\u7684word\uff09<br>2\uff09\u81ea\u9002\u5e94\u5730\u53d1\u8d77\u67e5\u8be2</p>\n</div>",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2022-10-27T06:32:55Z",
+          "dateModified": "2022-10-27T06:32:57Z",
+          "uri": "http://zotero.org/users/9781610/items/94RWGDZK"
+        }
+      ],
+      "citationKey": "yuCollusionResistantWatermarkable2020",
+      "itemKey": "9X6IXN57",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9X6IXN57"
+    }
+  ]
+}
