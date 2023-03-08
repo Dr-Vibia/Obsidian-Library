@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f3bb81110a2b5293",
+        "id": "98e2f5e78cc430de",
         "type": "tabs",
         "children": [
           {
-            "id": "8e81209d1d48a290",
+            "id": "5069766a45dd1c91",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "密码学原语/ElGamal 加密算法.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -142,11 +139,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e81209d1d48a290",
+  "active": "31136e85f90e2e42",
   "lastOpenFiles": [
+    "密码学原语/Pseudo-Random/伪随机函数 PRF.md",
+    "README.md",
+    "密码学原语/Pseudo-Random",
     "conflict-files-obsidian-git.md",
     "密码学原语/ElGamal 加密算法.md",
-    "密码学原语/伪随机函数 PRF.md",
     "密码学原语/混淆电路 GC.md",
     "密码学原语/不经意传输 OT.md",
     "密码学原语/Attachments/Pasted image 20230308112710.png",
@@ -168,8 +167,6 @@
     "网络安全数学基础/Textbook/第 11 章 多项式环.md",
     "网络安全数学基础/Textbook/第 6 章 素性检验.md",
     "网络安全数学基础/Homework/3.期末试卷整理/证明Zp是域，Zn不是整环.md",
-    "网络安全数学基础/Homework/3.期末试卷整理/2.求域F16的一个生成元g(x).md",
-    "网络安全数学基础/Homework/3.期末试卷整理/设 A 是交换环，如果 A 中存在正整数 m.md",
-    "网络安全数学基础/Homework/3.期末试卷整理/证明对任意 a in G 是群 G 的自同构.md"
+    "网络安全数学基础/Homework/3.期末试卷整理/2.求域F16的一个生成元g(x).md"
   ]
 }
