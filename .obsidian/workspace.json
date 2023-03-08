@@ -4,50 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "792a26679645d8c4",
+        "id": "f3bb81110a2b5293",
         "type": "tabs",
         "children": [
           {
-            "id": "c8b3461deb7bf641",
+            "id": "8e81209d1d48a290",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "网络安全数学基础/Homework/3.期末试卷整理/设G={(a,b)a,b R}.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2430332743e8ea2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "密码学原语/伪随机函数 PRF.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e63701ebb8bd492",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网络安全数学基础/Textbook/第 1 章 整数的可除性.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,14 +42,6 @@
             }
           },
           {
-            "id": "4e595e309a44b2e7",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "2a314253b6908ebb",
             "type": "leaf",
             "state": {
@@ -92,8 +55,25 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "4e595e309a44b2e7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "31136e85f90e2e42",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -113,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "网络安全数学基础/Textbook/第 1 章 整数的可除性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "网络安全数学基础/Textbook/第 1 章 整数的可除性.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,21 +124,14 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "31136e85f90e2e42",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,33 +142,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e63701ebb8bd492",
+  "active": "31136e85f90e2e42",
   "lastOpenFiles": [
+    "密码学原语/伪随机函数 PRF.md",
+    "密码学原语/混淆电路 GC.md",
+    "密码学原语/不经意传输 OT.md",
+    "密码学原语/ElGamal 加密算法.md",
+    "conflict-files-obsidian-git.md",
+    "密码学原语/Attachments/Pasted image 20230308112710.png",
+    "算法/practice/C&C++技巧.md",
+    "算法/practice/LeetCode/在排序数组中查找元素的第一个和最后一个位置.md",
+    "[Markdown] LaTex 基本语法.md",
+    "test.md",
+    "网络安全数学基础/Homework/3.期末试卷整理/设G={(a,b)a,b R}.md",
+    "网络安全数学基础/Textbook/第 9 章 群的结构.md",
+    "网络安全数学基础/Textbook/第 4 章 二次同余式与平方剩余.md",
+    "网络安全数学基础/Textbook/第 1 章 整数的可除性.md",
     "网络安全数学基础/Textbook/第 2 章 同余.md",
     "密码学原语/Watermarkable PRFs.md",
-    "密码学原语/混淆电路 GC.md",
-    "密码学原语/伪随机函数 PRF.md",
     "密码学原语/Fingerprinting Code.md",
     "密码学原语/同态加密 HE.md",
     "网络安全数学基础/Textbook/《群、环、域》一图解.md",
-    "网络安全数学基础/Homework/3.期末试卷整理/设G={(a,b)a,b R}.md",
     "密码学原语/签名 Signature.md",
-    "密码学原语/不经意传输 OT.md",
     "网络安全数学基础/Textbook/第 12 章 域和 Galois 理论.md",
     "网络安全数学基础/Textbook/第 11 章 多项式环.md",
-    "网络安全数学基础/Textbook/第 9 章 群的结构.md",
     "网络安全数学基础/Textbook/第 6 章 素性检验.md",
     "网络安全数学基础/Homework/3.期末试卷整理/证明Zp是域，Zn不是整环.md",
     "网络安全数学基础/Homework/3.期末试卷整理/2.求域F16的一个生成元g(x).md",
     "网络安全数学基础/Homework/3.期末试卷整理/设 A 是交换环，如果 A 中存在正整数 m.md",
-    "网络安全数学基础/Homework/3.期末试卷整理/证明对任意 a in G 是群 G 的自同构.md",
-    "网络安全数学基础/Homework/3.期末试卷整理/已知实数域上椭圆曲线.md",
-    "网络安全数学基础/Homework/3.期末试卷整理/设 D 是整环，并且包含在整环 E 之中.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/证明群 g 中的元素 a 与其逆元有相同的阶.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/证明：cent(G) 是 G 的正规子群。.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/证明：映射 → 是 G 到自身的自同构。.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/证明：可逆元对乘法构成一个群.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/求 Z 49Z 中的所有生成元.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/求 F_16 中的生成元 g(x).md"
+    "网络安全数学基础/Homework/3.期末试卷整理/证明对任意 a in G 是群 G 的自同构.md"
   ]
 }
