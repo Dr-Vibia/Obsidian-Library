@@ -19,5 +19,8 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 60
-  }
+  },
+  "userIgnoreFilters": [
+    "/Attachments"
+  ]
 }
