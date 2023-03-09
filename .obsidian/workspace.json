@@ -145,10 +145,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b402b3d9b9eaa10",
+  "active": "bfb578e1971bd0fa",
   "lastOpenFiles": [
-    "密码学原语/Pseudo-Random/伪随机函数 PRF.md",
+    "conflict-files-obsidian-git.md",
+    "新建 文本文档.txt",
     "密码学原语/Pseudo-Random/伪随机排列 PRP.md",
+    "README.md",
+    "密码学原语/Pseudo-Random/伪随机函数 PRF.md",
     "密码学原语/Functional Encryption/Attachments/Pasted image 20220928212700.png",
     "密码学原语/Functional Encryption/Attachments/Pasted image 20220927230124.png",
     "密码学原语/Pseudo-Random/伪随机数发生器 PRG.md",
@@ -184,8 +187,6 @@
     "网络安全数学基础/Textbook/第 11 章 多项式环.md",
     "网络安全数学基础/Textbook/第 9 章 群的结构.md",
     "网络安全数学基础/Textbook/第 6 章 素性检验.md",
-    "网络安全数学基础/Homework/3.期末试卷整理/证明Zp是域，Zn不是整环.md",
-    "网络安全数学基础/Homework/3.期末试卷整理/2.求域F16的一个生成元g(x).md",
-    "网络安全数学基础/Homework/3.期末试卷整理/设 A 是交换环，如果 A 中存在正整数 m.md"
+    "网络安全数学基础/Homework/3.期末试卷整理/证明Zp是域，Zn不是整环.md"
   ]
 }
