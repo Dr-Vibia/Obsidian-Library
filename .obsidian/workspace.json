@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "密码学原语/ElGamal 加密算法.md",
+                "file": "密码学原语/Pseudo-Random/伪随机函数 PRF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,14 +44,6 @@
             }
           },
           {
-            "id": "4e595e309a44b2e7",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "2a314253b6908ebb",
             "type": "leaf",
             "state": {
@@ -64,6 +56,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "4e595e309a44b2e7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "密码学原语/ElGamal 加密算法.md",
+                "file": "密码学原语/Pseudo-Random/伪随机函数 PRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "密码学原语/ElGamal 加密算法.md"
+                "file": "密码学原语/Pseudo-Random/伪随机函数 PRF.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "cc1a820184aa5240",
+            "id": "e7040be7d83f8574",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -145,10 +145,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05beb13955897ae3",
+  "active": "e7040be7d83f8574",
   "lastOpenFiles": [
+    "密码学原语/Functional Encryption/Attachments/Pasted image 20220928212700.png",
+    "密码学原语/Functional Encryption/Attachments/Pasted image 20220927230124.png",
+    "密码学原语/Pseudo-Random/伪随机数发生器 PRG.md",
+    "密码学原语/Pseudo-Random/伪随机排列 PRP.md",
+    "密码学原语/Pseudo-Random/伪随机函数 PRF.md",
+    "密码学原语/Functional Encryption/Predicate Encryption (PE).md",
+    "密码学原语/Functional Encryption/Identity-based encryption (IBE).md",
+    "密码学原语/Functional Encryption/Functional Encryption (FE).md",
+    "密码学原语/Functional Encryption/Attribute-based encryption (ABE).md",
+    "密码学原语/Functional Encryption/Attachments",
     "密码学原语/Attachments/Pasted image 20230308112710.png",
+    "密码学原语/Attachments/Pasted image 20221022115929.png",
+    "密码学原语/Attachments/Pasted image 20221019223648.png",
+    "密码学原语/Attachments/Pasted image 20221019223544.png",
+    "密码学原语/Attachments/Pasted image 20221019223509.png",
+    "密码学原语/Attachments/Pasted image 20221019223155.png",
+    "密码学原语/Attachments/Pasted image 20221018233956.png",
+    "密码学原语/Attachments/Pasted image 20221013095602.png",
+    "密码学原语/Attachments/Pasted image 20221013095212.png",
+    "密码学原语/签名 Signature.md",
+    "密码学原语/混淆电路 GC.md",
+    "密码学原语/同态加密 HE.md",
+    "密码学原语/不经意传输 OT.md",
+    "密码学原语/Watermarkable PRFs.md",
+    "密码学原语/Pseudo-Random",
+    "密码学原语/Half-gates.md",
+    "密码学原语/GMW Protocol.md",
+    "密码学原语/Functional Encryption",
+    "密码学原语/Fingerprinting Code.md",
     "密码学原语/ElGamal 加密算法.md",
+    "密码学原语/Attachments",
+    "密码学原语",
     "网络安全数学基础/Homework/3.期末试卷整理/设G={(a,b)a,b R}.md",
     "网络安全数学基础/Textbook/第 12 章 域和 Galois 理论.md",
     "网络安全数学基础/Textbook/《群、环、域》一图解.md",
@@ -157,21 +187,6 @@
     "网络安全数学基础/Textbook/第 6 章 素性检验.md",
     "网络安全数学基础/Homework/3.期末试卷整理/证明Zp是域，Zn不是整环.md",
     "网络安全数学基础/Homework/3.期末试卷整理/2.求域F16的一个生成元g(x).md",
-    "网络安全数学基础/Homework/3.期末试卷整理/设 A 是交换环，如果 A 中存在正整数 m.md",
-    "网络安全数学基础/Homework/3.期末试卷整理/证明对任意 a in G 是群 G 的自同构.md",
-    "网络安全数学基础/Homework/3.期末试卷整理/已知实数域上椭圆曲线.md",
-    "网络安全数学基础/Homework/3.期末试卷整理/设 D 是整环，并且包含在整环 E 之中.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/证明群 g 中的元素 a 与其逆元有相同的阶.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/证明：cent(G) 是 G 的正规子群。.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/证明：映射 → 是 G 到自身的自同构。.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/证明：可逆元对乘法构成一个群.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/求 Z 49Z 中的所有生成元.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/求 F_16 中的生成元 g(x).md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/幂零.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/构成一个整环.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/构成一个域.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/公因数一定是最大公因数的因数.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/布尔环.md",
-    "网络安全数学基础/Homework/2.后半学期（8~15）/不可约多项式.md"
+    "网络安全数学基础/Homework/3.期末试卷整理/设 A 是交换环，如果 A 中存在正整数 m.md"
   ]
 }
