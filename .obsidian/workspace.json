@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9f84481fb233cb5d",
+        "id": "f406c59a6aabb322",
         "type": "tabs",
         "children": [
           {
-            "id": "05beb13955897ae3",
+            "id": "8b402b3d9b9eaa10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "密码学原语/Pseudo-Random/伪随机函数 PRF.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "密码学原语/Pseudo-Random/伪随机函数 PRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "密码学原语/Pseudo-Random/伪随机函数 PRF.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,13 +137,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7040be7d83f8574",
+  "active": "8b402b3d9b9eaa10",
   "lastOpenFiles": [
+    "密码学原语/Pseudo-Random/伪随机函数 PRF.md",
     "密码学原语/Functional Encryption/Attachments/Pasted image 20220928212700.png",
     "密码学原语/Functional Encryption/Attachments/Pasted image 20220927230124.png",
     "密码学原语/Pseudo-Random/伪随机数发生器 PRG.md",
     "密码学原语/Pseudo-Random/伪随机排列 PRP.md",
-    "密码学原语/Pseudo-Random/伪随机函数 PRF.md",
     "密码学原语/Functional Encryption/Predicate Encryption (PE).md",
     "密码学原语/Functional Encryption/Identity-based encryption (IBE).md",
     "密码学原语/Functional Encryption/Functional Encryption (FE).md",
@@ -165,7 +157,6 @@
     "密码学原语/Attachments/Pasted image 20221019223155.png",
     "密码学原语/Attachments/Pasted image 20221018233956.png",
     "密码学原语/Attachments/Pasted image 20221013095602.png",
-    "密码学原语/Attachments/Pasted image 20221013095212.png",
     "密码学原语/签名 Signature.md",
     "密码学原语/混淆电路 GC.md",
     "密码学原语/同态加密 HE.md",
