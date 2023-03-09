@@ -21,6 +21,13 @@
     "downscalePercent": 60
   },
   "userIgnoreFilters": [
-    "/Attachments"
+    "Zotero/Attachments/",
+    "密码学原语/Attachments/",
+    "概率论与数理统计/Attachments/",
+    "cryptography-master/ZZZ碎片化知识/Attachments/",
+    "CTF/Crypto/Attachments/",
+    "密码学原语/Functional Encryption/Attachments/",
+    "算法/class/Attachments/",
+    "网络安全数学基础/Textbook/Attachments/"
   ]
 }

@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "密码学原语/Pseudo-Random/伪随机排列 PRP.md",
+                "file": "密码学原语/Garbled Circuits/混淆电路.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "843146e31d4503da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "密码学原语/Game Sequence.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "密码学原语/Pseudo-Random/伪随机排列 PRP.md",
+                "file": "密码学原语/Game Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "密码学原语/Pseudo-Random/伪随机排列 PRP.md"
+                "file": "密码学原语/Game Sequence.md"
               }
             }
           },
@@ -147,9 +161,13 @@
   },
   "active": "bfb578e1971bd0fa",
   "lastOpenFiles": [
+    "密码学原语/Garbled Circuits/混淆电路.md",
+    "密码学原语/Game Sequence.md",
+    "密码学原语/Game Sequence",
+    "密码学原语/Pseudo-Random/伪随机排列 PRP.md",
+    "密码学原语/Garbled Circuits",
     "conflict-files-obsidian-git.md",
     "新建 文本文档.txt",
-    "密码学原语/Pseudo-Random/伪随机排列 PRP.md",
     "README.md",
     "密码学原语/Pseudo-Random/伪随机函数 PRF.md",
     "密码学原语/Functional Encryption/Attachments/Pasted image 20220928212700.png",
@@ -169,13 +187,12 @@
     "密码学原语/Attachments/Pasted image 20221018233956.png",
     "密码学原语/Attachments/Pasted image 20221013095602.png",
     "密码学原语/签名 Signature.md",
-    "密码学原语/混淆电路 GC.md",
     "密码学原语/同态加密 HE.md",
     "密码学原语/不经意传输 OT.md",
     "密码学原语/Watermarkable PRFs.md",
     "密码学原语/Pseudo-Random",
-    "密码学原语/Half-gates.md",
-    "密码学原语/GMW Protocol.md",
+    "密码学原语/Garbled Circuits/Half-gates.md",
+    "密码学原语/Garbled Circuits/GMW Protocol.md",
     "密码学原语/Functional Encryption",
     "密码学原语/Fingerprinting Code.md",
     "密码学原语/ElGamal 加密算法.md",
