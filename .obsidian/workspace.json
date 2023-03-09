@@ -159,10 +159,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bfb578e1971bd0fa",
+  "active": "843146e31d4503da",
   "lastOpenFiles": [
-    "密码学原语/Garbled Circuits/混淆电路.md",
+    "[Markdown] LaTex 基本语法.md",
     "密码学原语/Game Sequence.md",
+    "密码学原语/Garbled Circuits/混淆电路.md",
     "密码学原语/Game Sequence",
     "密码学原语/Pseudo-Random/伪随机排列 PRP.md",
     "密码学原语/Garbled Circuits",
@@ -203,7 +204,6 @@
     "网络安全数学基础/Textbook/《群、环、域》一图解.md",
     "网络安全数学基础/Textbook/第 11 章 多项式环.md",
     "网络安全数学基础/Textbook/第 9 章 群的结构.md",
-    "网络安全数学基础/Textbook/第 6 章 素性检验.md",
-    "网络安全数学基础/Homework/3.期末试卷整理/证明Zp是域，Zn不是整环.md"
+    "网络安全数学基础/Textbook/第 6 章 素性检验.md"
   ]
 }
