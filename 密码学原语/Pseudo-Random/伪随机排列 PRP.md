@@ -1,3 +1,4 @@
+
 $PRP$, 对 $(K,X)$ 有
 
 $E:(K, X)\rightarrow X$

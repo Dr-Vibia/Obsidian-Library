@@ -11,8 +11,13 @@
             "id": "8b402b3d9b9eaa10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "密码学原语/Pseudo-Random/伪随机排列 PRP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "密码学原语/Pseudo-Random/伪随机排列 PRP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "密码学原语/Pseudo-Random/伪随机排列 PRP.md"
+              }
             }
           },
           {
@@ -140,10 +148,10 @@
   "active": "8b402b3d9b9eaa10",
   "lastOpenFiles": [
     "密码学原语/Pseudo-Random/伪随机函数 PRF.md",
+    "密码学原语/Pseudo-Random/伪随机排列 PRP.md",
     "密码学原语/Functional Encryption/Attachments/Pasted image 20220928212700.png",
     "密码学原语/Functional Encryption/Attachments/Pasted image 20220927230124.png",
     "密码学原语/Pseudo-Random/伪随机数发生器 PRG.md",
-    "密码学原语/Pseudo-Random/伪随机排列 PRP.md",
     "密码学原语/Functional Encryption/Predicate Encryption (PE).md",
     "密码学原语/Functional Encryption/Identity-based encryption (IBE).md",
     "密码学原语/Functional Encryption/Functional Encryption (FE).md",
