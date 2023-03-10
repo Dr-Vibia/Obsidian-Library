@@ -16,6 +16,13 @@ that is, the events $S_i\wedge\neg F$ and $S_{i+1}\wedge\neg F$ are the same. If
 
 Let $A,B,F$ be events defined in some probability distribution, and suppose that $A\wedge\neg F\Longleftrightarrow B\wedge\neg F$ . Then $|Pr[A]-Pr[B]|\le Pr[F]$.
 
+*Proof*.  This is a simple calculation. We have
+$$\begin{align*}
+|Pr[A]-Pr[B]|&=|Pr[A\wedge F]+Pr[A\wedge\neg F]-Pr[B\wedge F]-Pr[B\wedge\neg F]|\\
+&=|Pr[A\wedge F]-Pr[B\wedge F]|\\
+&\le Pr[F]
+\end{align*}$$
+> 要证明 $Pr[S_i]$ 和 $Pr[S_{i+1}]$ 可忽略不计，只需证明 $Pr[F]$ 可忽略不计。
 
 ## Bridging steps
 
