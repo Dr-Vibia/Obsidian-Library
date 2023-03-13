@@ -11,11 +11,30 @@
             "id": "53cab47db06a49d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "密码学原语/Functional Encryption/Attribute-based encryption (ABE).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f083cf27685931a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "密码学原语/Learn With Error.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "密码学原语/Learn With Error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "密码学原语/Learn With Error.md"
+              }
             }
           },
           {
@@ -137,8 +159,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7040be7d83f8574",
+  "active": "0f083cf27685931a",
   "lastOpenFiles": [
+    "密码学原语/Functional Encryption/Attribute-based encryption (ABE).md",
+    "密码学原语/Learn With Error.md",
+    "密码学原语/Functional Encryption/Predicate Encryption (PE).md",
     "密码学原语/Game Sequence.md",
     "[Markdown] LaTex 基本语法.md",
     "密码学原语/Garbled Circuits/混淆电路.md",
@@ -152,10 +177,8 @@
     "密码学原语/Functional Encryption/Attachments/Pasted image 20220928212700.png",
     "密码学原语/Functional Encryption/Attachments/Pasted image 20220927230124.png",
     "密码学原语/Pseudo-Random/伪随机数发生器 PRG.md",
-    "密码学原语/Functional Encryption/Predicate Encryption (PE).md",
     "密码学原语/Functional Encryption/Identity-based encryption (IBE).md",
     "密码学原语/Functional Encryption/Functional Encryption (FE).md",
-    "密码学原语/Functional Encryption/Attribute-based encryption (ABE).md",
     "密码学原语/Functional Encryption/Attachments",
     "密码学原语/Attachments/Pasted image 20230308112710.png",
     "密码学原语/Attachments/Pasted image 20221022115929.png",
@@ -181,7 +204,6 @@
     "网络安全数学基础/Textbook/第 12 章 域和 Galois 理论.md",
     "网络安全数学基础/Textbook/《群、环、域》一图解.md",
     "网络安全数学基础/Textbook/第 11 章 多项式环.md",
-    "网络安全数学基础/Textbook/第 9 章 群的结构.md",
-    "网络安全数学基础/Textbook/第 6 章 素性检验.md"
+    "网络安全数学基础/Textbook/第 9 章 群的结构.md"
   ]
 }
