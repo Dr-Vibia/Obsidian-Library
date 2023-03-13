@@ -81,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "密码学原语/Game Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "密码学原语/Game Sequence.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,8 +139,8 @@
   },
   "active": "e7040be7d83f8574",
   "lastOpenFiles": [
-    "[Markdown] LaTex 基本语法.md",
     "密码学原语/Game Sequence.md",
+    "[Markdown] LaTex 基本语法.md",
     "密码学原语/Garbled Circuits/混淆电路.md",
     "密码学原语/Game Sequence",
     "密码学原语/Pseudo-Random/伪随机排列 PRP.md",
