@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "密码学原语/安全性.md",
+                "file": "密码学原语/安全性 Security Properties.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "密码学原语/安全性.md",
+                "file": "密码学原语/安全性 Security Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "密码学原语/安全性.md"
+                "file": "密码学原语/安全性 Security Properties.md"
               }
             }
           },
@@ -147,7 +147,7 @@
   },
   "active": "85b7e22e00453c57",
   "lastOpenFiles": [
-    "密码学原语/安全性.md",
+    "密码学原语/安全性 Security Properties.md",
     "密码学原语/威胁模型 Thread Model.md",
     "密码学原语/Learn With Error.md",
     "密码学原语/Functional Encryption/Attribute-based encryption (ABE).md",
