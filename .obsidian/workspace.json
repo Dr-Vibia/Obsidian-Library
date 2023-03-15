@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2b5b905fc8f7909",
+        "id": "15ba6a58b93f6772",
         "type": "tabs",
         "children": [
           {
-            "id": "962251bdc5cc3234",
+            "id": "85b7e22e00453c57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "密码学原语/威胁模型 Thread Model.md",
+                "file": "密码学原语/安全性.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "密码学原语/威胁模型 Thread Model.md",
+                "file": "密码学原语/安全性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "密码学原语/威胁模型 Thread Model.md"
+                "file": "密码学原语/安全性.md"
               }
             }
           },
@@ -145,10 +145,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "962251bdc5cc3234",
+  "active": "85b7e22e00453c57",
   "lastOpenFiles": [
-    "密码学原语/Learn With Error.md",
+    "密码学原语/安全性.md",
     "密码学原语/威胁模型 Thread Model.md",
+    "密码学原语/Learn With Error.md",
     "密码学原语/Functional Encryption/Attribute-based encryption (ABE).md",
     "密码学原语/Functional Encryption/Predicate Encryption (PE).md",
     "密码学原语/Game Sequence.md",
@@ -189,7 +190,6 @@
     "密码学原语",
     "网络安全数学基础/Homework/3.期末试卷整理/设G={(a,b)a,b R}.md",
     "网络安全数学基础/Textbook/第 12 章 域和 Galois 理论.md",
-    "网络安全数学基础/Textbook/《群、环、域》一图解.md",
-    "网络安全数学基础/Textbook/第 11 章 多项式环.md"
+    "网络安全数学基础/Textbook/《群、环、域》一图解.md"
   ]
 }
